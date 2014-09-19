@@ -12,12 +12,12 @@ This toolbox will take a set of genes, and allow a researcher to determine if an
 - cmapGSEARMA.R: runs gene set enrichment analysis with quantile normalization of above
 - findSigResultsDrug.R: parses GSEA results and returns significant genes, drugs, etc. for a specified FDR threshold
 - parseDrugResult.R: format results into object that includes:
--- geneLists: a list of core enriched genes for each drug
--- meds: a list of drugs with significantly enriched genes
--- report: The full report table from GSEA
--- genematrix: a binary matrix of drugs by genes, with 1 indicated significant enrichment
--- tanimotos: tanimoto scores to assess similarity of drugs based on enriched genes
--- terms: gene set names that are significantly enriched for each drug
+  - *geneLists*: a list of core enriched genes for each drug
+  - *meds*: a list of drugs with significantly enriched genes
+  - *report*: The full report table from GSEA
+  - *genematrix*: a binary matrix of drugs by genes, with 1 indicated significant enrichment
+  - *tanimotos*: tanimoto scores to assess similarity of drugs based on enriched genes
+  - *terms*: gene set names that are significantly enriched for each drug
 
 ## PubChem
 2) Extract structure and properties of drugs from Pubchem
@@ -26,7 +26,7 @@ This toolbox will take a set of genes, and allow a researcher to determine if an
 ## gene2drug Enrichment Scoring
 3) 
 
-TODO:
+### TODO:
 - map genes to proteins
 - calculate enrichment score of proteins in my drugs
 - generate final report
