@@ -1,0 +1,747 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "388057",
+          "7",
+          "2",
+          "",
+          "103624694",
+          "4248455",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Haemophilus influenzae IID983 by agar dilution method",
+          "Other",
+          "18805004",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "388058",
+          "8",
+          "2",
+          "",
+          "103624694",
+          "4248455",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of fatty acid synthase type 1 in human HepG2 cells assessed as [1-14C]acetate incorporation into cellular fatty acid",
+          "Other",
+          "18805004",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "388056",
+          "7",
+          "2",
+          "",
+          "103624694",
+          "4248455",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Moraxella catarrhalis ATCC 25238 by agar dilution method",
+          "Other",
+          "18805004",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "388055",
+          "7",
+          "2",
+          "",
+          "103624694",
+          "4248455",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Antibacterial activity against Staphylococcus aureus Smith by agar dilution method",
+          "Other",
+          "18805004",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2551",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "188536040",
+          "",
+          "Potency",
+          "qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          "",
+          "19885"
+        ]
+      },
+      {
+        "Cell": [
+          "2549",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "282403581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2546",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "188536040",
+          "",
+          "Potency",
+          "VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          "",
+          "19885"
+        ]
+      },
+      {
+        "Cell": [
+          "2528",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "4557365",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM)",
+          "Confirmatory",
+          "",
+          "",
+          "641"
+        ]
+      },
+      {
+        "Cell": [
+          "2517",
+          "2",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "6980812",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2472",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "7669492",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia: Coupling assay counterscreen",
+          "Screening",
+          "",
+          "",
+          "2597"
+        ]
+      },
+      {
+        "Cell": [
+          "2451",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inconclusive",
+          "122920737",
+          "15.8114",
+          "Potency",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2315",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "32400300",
+          "",
+          "",
+          "A qHTS for Small Molecule Inhibitors of Shiga Toxin",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2315",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "32400299",
+          "",
+          "",
+          "A qHTS for Small Molecule Inhibitors of Shiga Toxin",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2314",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "32400300",
+          "",
+          "",
+          "Cycloheximide Counterscreen for Small Molecule Inhibitors of Shiga Toxin",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2314",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "32400299",
+          "",
+          "",
+          "Cycloheximide Counterscreen for Small Molecule Inhibitors of Shiga Toxin",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2112",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "119393891",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2548"
+        ]
+      },
+      {
+        "Cell": [
+          "2107",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "757912",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2717"
+        ]
+      },
+      {
+        "Cell": [
+          "2101",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "496369",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential Chaperone Treatment of Gaucher Disease",
+          "Confirmatory",
+          "",
+          "",
+          "2629"
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "56550039",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4297"
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "18860839",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4221"
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "18860839",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4221"
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "56550039",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4297"
+        ]
+      },
+      {
+        "Cell": [
+          "1490",
+          "2",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "10954339",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1479",
+          "1",
+          "2",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "1477",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1469",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "602332",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "168984549",
+          "",
+          "Potency",
+          "qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588579",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "7705344",
+          "23.7781",
+          "Potency",
+          "qHTS for Inhibitors of Polymerase Kappa",
+          "Confirmatory",
+          "",
+          "",
+          "51426"
+        ]
+      },
+      {
+        "Cell": [
+          "504847",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Active",
+          "63054845",
+          "19.9526",
+          "Potency",
+          "Inhibitors of the vitamin D receptor (VDR): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "504327",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "153791535",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of GCN5L2",
+          "Confirmatory",
+          "",
+          "",
+          "2648"
+        ]
+      },
+      {
+        "Cell": [
+          "485290",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "20150581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485281",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "254220970",
+          "",
+          "Potency",
+          "qHTS Assay for Identification of Novel General Anesthetics",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743347",
+          "1",
+          "1",
+          "",
+          "174007244",
+          "4248455",
+          "Inactive",
+          "",
+          "10.5839",
+          "Potency",
+          "qHTS profiling of the MIPE4 collection as inhibitors of Plasmodium falciparum (HB3) proliferation",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743346",
+          "1",
+          "1",
+          "",
+          "174007244",
+          "4248455",
+          "Inactive",
+          "",
+          "0.015",
+          "Potency",
+          "qHTS profiling of the MIPE4 collection as inhibitors of Plasmodium falciparum (DD2) proliferation (Rep 2)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743345",
+          "1",
+          "1",
+          "",
+          "174007244",
+          "4248455",
+          "Inactive",
+          "",
+          "0.0047",
+          "Potency",
+          "qHTS profiling of the MIPE4 collection as inhibitors of Plasmodium falciparum (DD2) proliferation",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743344",
+          "1",
+          "1",
+          "",
+          "174007244",
+          "4248455",
+          "Inactive",
+          "",
+          "16.7744",
+          "Potency",
+          "qHTS profiling of the MIPE4 collection as inhibitors of Plasmodium falciparum (3D7) proliferation",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720533",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720532",
+          "1",
+          "1",
+          "",
+          "29217529",
+          "4248455",
+          "Inactive",
+          "420597",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}

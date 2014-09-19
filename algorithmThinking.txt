@@ -1,0 +1,23 @@
+Problem at hand:
+
+I have gene sets and drugs / chemicals that I think are meaningfully related, and I want to validate if they are or not.
+
+My original idea: Assess similarity of drugs based on tanimoto scores of genes that are enriched. (Creates a hypothisized network of related drugs).  Then - create another network of drug / chemical similarity based on ACTUAL structure.  Map tanimoto scores onto actual similarity to see if there is correspondance (eg, are two drugs similar in gene enrichment because they are structurally similar?)  
+
+A simpler idea: We just want to know if the gene sets are meaningful for the drug.
+1) From the literature: For each drug, download list of known targets, see if I can map any targets to my genes for the drugs, create an enrichment score that reflects if the result makes sense for the drug.
+
+2) From structure:
+A. look up proteins encoded by gene
+B. look up structure of those proteins
+C. look up structure of the drug
+D. do simulation / look up in literature if one could influence the other!
+
+A more complicated idea:
+
+
+Larger algorithm:
+
+We would arguably want to find a gene that is messed up in a disorder, and then find medications/chemical compounds that could influence that gene.  It's not clear how we can map genes to drugs - an idea is to start with expression data for drugs, look for enrichment of genes in the drug exposed vs. not exposed, and then finally to validate by experimentally testing (and reports in the literature) of the influence of the drug on the protein.  When we find a protein (associated with a gene) that is influenced by the drug, arguably that could be the basis for altering the strange expression of the particular gene.
+
+At the end of the day - I want to be able to give gene sets to an algorithm, and to find drugs that can act on those genes. The GSEA is important to narrow down the genes to ones that might actually be relevant.

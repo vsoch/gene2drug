@@ -1,0 +1,63 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "1332",
+          "1",
+          "1",
+          "",
+          "49699393",
+          "71447",
+          "Inactive",
+          "",
+          "",
+          "",
+          "High Throughput Screen to Identify Inhibitors of Mycobacterium tuberculosis H37Rv",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686977",
+          "2",
+          "1",
+          "",
+          "49699393",
+          "71447",
+          "Inactive",
+          "9657203",
+          "",
+          "IC50",
+          "Vibrio cholerae assay for pro-quorum sensing small molecules",
+          "Confirmatory",
+          "",
+          "",
+          "2615631"
+        ]
+      }
+    ]
+  }
+}

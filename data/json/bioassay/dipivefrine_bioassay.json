@@ -1,0 +1,785 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2316",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Activators of the Reversal of PD-1 Mediated Inhibitors of T-Cell Inhibition",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "2062",
+          "1",
+          "2",
+          "",
+          "85209619",
+          "3105",
+          "Active",
+          "",
+          "",
+          "",
+          "Ligands of bioamine (Class A) GPCRs",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1332",
+          "1",
+          "1",
+          "",
+          "49699363",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "High Throughput Screen to Identify Inhibitors of Mycobacterium tuberculosis H37Rv",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624260",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "109633019",
+          "",
+          "",
+          "NSD2 Inhibitors Measured in Biochemical System Using Plate Reader - 2115-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7468"
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624151",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Re-Activators of the P53 Mutant Pathway Measured in Cell-Based System Using Plate Reader - 2071-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624141",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "71774083",
+          "",
+          "",
+          "SMM c-myc Measured in Biochemical System Using Small Molecule MicroArray - 2081-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4609"
+        ]
+      },
+      {
+        "Cell": [
+          "624139",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "34577122",
+          "",
+          "",
+          "NF-KappaB Measured in Biochemical System Using Small Molecule MicroArray - 2080-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4790"
+        ]
+      },
+      {
+        "Cell": [
+          "624138",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "21618340",
+          "",
+          "",
+          "SMM STAT-3 Measured in Biochemical System Using Small Molecule MicroArray - 2076-01_Other_SinglePoint_HTS_Activity_Set2",
+          "Screening",
+          "",
+          "",
+          "6774"
+        ]
+      },
+      {
+        "Cell": [
+          "624137",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "881546",
+          "",
+          "",
+          "SMM ID4 Measured in Biochemical System Using Small Molecule MicroArray - 2128-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3400"
+        ]
+      },
+      {
+        "Cell": [
+          "624136",
+          "1",
+          "1",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "208342286",
+          "",
+          "",
+          "mutant P53 Measured in Biochemical System Using Small Molecule MicroArray - 2077-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85787969",
+          "3105",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "625288",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for jaundice",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625287",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatomegaly",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625286",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625285",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic necrosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625284",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic failure",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625283",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for elevated liver function tests",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625282",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cirrhosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625281",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholelithiasis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625280",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholecystitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625279",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for bilirubinemia",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588219",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, gamma-glutamyl transferase (GGT) increase",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588218",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, lactate dehydrogenase (LDH) increase",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588217",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, serum glutamic pyruvic transaminase (SGPT) increase",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588216",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, serum glutamic oxaloacetic transaminase (SGOT) increase",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588215",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, alkaline phosphatase increase",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588214",
+          "2",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA HLAED, liver enzyme composite activity",
+          "Other",
+          "16472241",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625289",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver disease",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625290",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver fatty",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625291",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver function tests abnormal",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625292",
+          "1",
+          "3",
+          "",
+          "124974073",
+          "3105",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) combined score",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686977",
+          "2",
+          "1",
+          "",
+          "49699363",
+          "3105",
+          "Inactive",
+          "9657203",
+          "",
+          "IC50",
+          "Vibrio cholerae assay for pro-quorum sensing small molecules",
+          "Confirmatory",
+          "",
+          "",
+          "2615631"
+        ]
+      }
+    ]
+  }
+}

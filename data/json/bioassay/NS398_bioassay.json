@@ -1,0 +1,5459 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "885",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "13435386",
+          "19.9526",
+          "Potency",
+          "qHTS Assay for Activators of Cytochrome P450 3A4",
+          "Confirmatory",
+          "",
+          "",
+          "1576"
+        ]
+      },
+      {
+        "Cell": [
+          "886",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "122921311",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type II)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "886",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "122921310",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type II)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "887",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "1832253",
+          "15.8489",
+          "Potency",
+          "qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase)",
+          "Confirmatory",
+          "",
+          "",
+          "246"
+        ]
+      },
+      {
+        "Cell": [
+          "889",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "1730092",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7",
+          "Confirmatory",
+          "",
+          "",
+          "840"
+        ]
+      },
+      {
+        "Cell": [
+          "884",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "13435386",
+          "19.9526",
+          "Potency",
+          "qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4",
+          "Confirmatory",
+          "",
+          "",
+          "1576"
+        ]
+      },
+      {
+        "Cell": [
+          "883",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "13699818",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C9",
+          "Confirmatory",
+          "",
+          "",
+          "1559"
+        ]
+      },
+      {
+        "Cell": [
+          "881",
+          "2",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "317373425",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2)",
+          "Confirmatory",
+          "",
+          "",
+          "247"
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "33946324",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          "2770"
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "3290016",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          "6002"
+        ]
+      },
+      {
+        "Cell": [
+          "875",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "159162802",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "662",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Cell signaling CRE-BLA (Fsk stim)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "607",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "82799486",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of PDE-IV",
+          "Confirmatory",
+          "",
+          "",
+          "5142"
+        ]
+      },
+      {
+        "Cell": [
+          "605",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "84028058",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of YjeE",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "603",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "qHTS Assay for Epigenetic Modulators",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "596",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "92096784",
+          "",
+          "",
+          "qHTS Assay for Tau Filament Binding",
+          "Confirmatory",
+          "",
+          "",
+          "4137"
+        ]
+      },
+      {
+        "Cell": [
+          "595",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "585",
+          "1",
+          "4",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "119389684",
+          "",
+          "",
+          "Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay without detergent)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "584",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "119389684",
+          "",
+          "",
+          "Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay with detergent)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "530",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "2499604",
+          "",
+          "",
+          "JNK3 AlphaScreen Assay",
+          "Confirmatory",
+          "",
+          "",
+          "26414"
+        ]
+      },
+      {
+        "Cell": [
+          "526",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Ubiquitin-GFP Assay",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "451",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "66528677",
+          "",
+          "",
+          "GR-EFC Redistribution",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "450",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "66528677",
+          "",
+          "",
+          "GR-GFP Redistribution",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "448",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "4325211",
+          "",
+          "",
+          "Schistosoma Mansoni Peroxiredoxins (Prx2)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "447",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "O-Glc NAc Transferase (sOGT)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "445",
+          "3",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "10092619",
+          "",
+          "",
+          "IkB Signaling",
+          "Confirmatory",
+          "",
+          "",
+          "4792"
+        ]
+      },
+      {
+        "Cell": [
+          "411",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "160794",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Firefly Luciferase",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "410",
+          "1",
+          "5",
+          "",
+          "11113808",
+          "4553",
+          "Active",
+          "73915100",
+          "",
+          "",
+          "p450-cyp1a2",
+          "Confirmatory",
+          "",
+          "",
+          "1544"
+        ]
+      },
+      {
+        "Cell": [
+          "891",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Active",
+          "40805836",
+          "0.0501",
+          "Potency",
+          "qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2D6",
+          "Confirmatory",
+          "",
+          "",
+          "1565"
+        ]
+      },
+      {
+        "Cell": [
+          "1471",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "90903231",
+          "",
+          "",
+          "qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington: Cytoprotection (ATP)",
+          "Confirmatory",
+          "",
+          "",
+          "3064"
+        ]
+      },
+      {
+        "Cell": [
+          "1476",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "281307097",
+          "",
+          "Potency",
+          "qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1477",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1478",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "281307097",
+          "",
+          "Potency",
+          "qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1479",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "1490",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "10954339",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1519",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "",
+          "35.4813",
+          "Potency",
+          "qHTS Assay for Lipid Storage Modulators",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "56550039",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4297"
+        ]
+      },
+      {
+        "Cell": [
+          "1766",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "18860839",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4221"
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "18860839",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4221"
+        ]
+      },
+      {
+        "Cell": [
+          "1768",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "56550039",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide",
+          "Confirmatory",
+          "",
+          "",
+          "4297"
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "1",
+          "11113808",
+          "4553",
+          "Active",
+          "4503219",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          "1557"
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "2",
+          "11113808",
+          "4553",
+          "Active",
+          "68509921",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          "1565"
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "3",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "13435386",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          "1576"
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "4",
+          "11113808",
+          "4553",
+          "Active",
+          "73915100",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          "1544"
+        ]
+      },
+      {
+        "Cell": [
+          "1851",
+          "1",
+          "2",
+          "5",
+          "11113808",
+          "4553",
+          "Inactive",
+          "13699818",
+          "",
+          "",
+          "Cytochrome panel assay with activity outcomes",
+          "Other",
+          "",
+          "",
+          "1559"
+        ]
+      },
+      {
+        "Cell": [
+          "1865",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "Quantitative High-Throughput Screen for Regulators of Epigenetic Control",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1948",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds that Induce Erasure of Genomic Imprints",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2101",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "496369",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential Chaperone Treatment of Gaucher Disease",
+          "Confirmatory",
+          "",
+          "",
+          "2629"
+        ]
+      },
+      {
+        "Cell": [
+          "2107",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "757912",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2717"
+        ]
+      },
+      {
+        "Cell": [
+          "2112",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "119393891",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2548"
+        ]
+      },
+      {
+        "Cell": [
+          "2147",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "221046486",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of  Human Jumonji Domain Containing 2E (JMJD2E)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2451",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "122920737",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "892",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "159162802",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "893",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "122921310",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "893",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "122921311",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "894",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "31542939",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase)",
+          "Confirmatory",
+          "",
+          "",
+          "3248"
+        ]
+      },
+      {
+        "Cell": [
+          "899",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Active",
+          "4503219",
+          "0.0794",
+          "Potency",
+          "qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C19",
+          "Confirmatory",
+          "",
+          "",
+          "1557"
+        ]
+      },
+      {
+        "Cell": [
+          "900",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "15431328",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1",
+          "Confirmatory",
+          "",
+          "",
+          "834"
+        ]
+      },
+      {
+        "Cell": [
+          "901",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "44888968",
+          "",
+          "Potency",
+          "qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors",
+          "Confirmatory",
+          "",
+          "",
+          "83523"
+        ]
+      },
+      {
+        "Cell": [
+          "902",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "120407068",
+          "",
+          "Potency",
+          "qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations: Cytotoxicity of p53ts Cells at the Nonpermissive Temperature",
+          "Confirmatory",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "912",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "21392848",
+          "",
+          "Potency",
+          "qHTS Assay for Anthrax Lethal Toxin Internalization",
+          "Confirmatory",
+          "",
+          "",
+          "1158731"
+        ]
+      },
+      {
+        "Cell": [
+          "923",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic Profiling in AFC Spectral Region",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "924",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "120407068",
+          "",
+          "Potency",
+          "qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations: Cytotoxicity of p53ts Cells at the Permissive Temperature",
+          "Confirmatory",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "926",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "38016895",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor",
+          "Confirmatory",
+          "",
+          "",
+          "7253"
+        ]
+      },
+      {
+        "Cell": [
+          "938",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "38016895",
+          "39.8107",
+          "Potency",
+          "qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor: Activators of Intracellular cAMP Concentrations in Parental HEK 293",
+          "Confirmatory",
+          "",
+          "",
+          "7253"
+        ]
+      },
+      {
+        "Cell": [
+          "995",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "66932916",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay",
+          "Confirmatory",
+          "",
+          "",
+          "5594"
+        ]
+      },
+      {
+        "Cell": [
+          "1030",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Active",
+          "30582681",
+          "22.3872",
+          "Potency",
+          "qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1)",
+          "Confirmatory",
+          "",
+          "",
+          "216"
+        ]
+      },
+      {
+        "Cell": [
+          "1379",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "1669525",
+          "",
+          "Potency",
+          "Counterscreen for Luciferase (Kinase-Glo TM) Inhibition",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1452",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "154426292",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase)",
+          "Confirmatory",
+          "",
+          "",
+          "239"
+        ]
+      },
+      {
+        "Cell": [
+          "1454",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "66932916",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay; Stimulation with EGF",
+          "Confirmatory",
+          "",
+          "",
+          "5594"
+        ]
+      },
+      {
+        "Cell": [
+          "1457",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "44888968",
+          "",
+          "Potency",
+          "qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation with Lithium",
+          "Confirmatory",
+          "",
+          "",
+          "83523"
+        ]
+      },
+      {
+        "Cell": [
+          "1460",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "92096784",
+          "39.8107",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding",
+          "Confirmatory",
+          "",
+          "",
+          "4137"
+        ]
+      },
+      {
+        "Cell": [
+          "1463",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "Counterscreen qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1467",
+          "1",
+          "3",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "757912",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Human alpha-Galactosidase at pH 4.5.",
+          "Confirmatory",
+          "",
+          "",
+          "2717"
+        ]
+      },
+      {
+        "Cell": [
+          "1468",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "92096784",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          "",
+          "4137"
+        ]
+      },
+      {
+        "Cell": [
+          "1469",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "2472",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "7669492",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of Fructose-1,6-bisphosphate Aldolase from Giardia Lamblia: Coupling assay counterscreen",
+          "Screening",
+          "",
+          "",
+          "2597"
+        ]
+      },
+      {
+        "Cell": [
+          "2517",
+          "2",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "6980812",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2528",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "4557365",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM)",
+          "Confirmatory",
+          "",
+          "",
+          "641"
+        ]
+      },
+      {
+        "Cell": [
+          "2546",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "188536040",
+          "",
+          "Potency",
+          "VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          "",
+          "19885"
+        ]
+      },
+      {
+        "Cell": [
+          "2549",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "282403581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2551",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "188536040",
+          "",
+          "Potency",
+          "qHTS for inhibitors of ROR gamma transcriptional activity",
+          "Confirmatory",
+          "",
+          "",
+          "19885"
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2316",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Activators of the Reversal of PD-1 Mediated Inhibitors of T-Cell Inhibition",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "3290016",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          "6002"
+        ]
+      },
+      {
+        "Cell": [
+          "880",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "33946324",
+          "",
+          "",
+          "qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)",
+          "Confirmatory",
+          "",
+          "",
+          "2770"
+        ]
+      },
+      {
+        "Cell": [
+          "1030",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inconclusive",
+          "30582681",
+          "25.1189",
+          "Potency",
+          "qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1)",
+          "Confirmatory",
+          "",
+          "",
+          "216"
+        ]
+      },
+      {
+        "Cell": [
+          "1457",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "44888968",
+          "",
+          "Potency",
+          "qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation with Lithium",
+          "Confirmatory",
+          "",
+          "",
+          "83523"
+        ]
+      },
+      {
+        "Cell": [
+          "1458",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "10937869",
+          "4.4668",
+          "Potency",
+          "qHTS Assay for Enhancers of SMN2 Splice Variant Expression",
+          "Confirmatory",
+          "",
+          "",
+          "6607"
+        ]
+      },
+      {
+        "Cell": [
+          "1460",
+          "1",
+          "3",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "92096784",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding",
+          "Confirmatory",
+          "",
+          "",
+          "4137"
+        ]
+      },
+      {
+        "Cell": [
+          "1463",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "Counterscreen qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1468",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "92096784",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Tau Fibril Formation, Fluorescence Polarization",
+          "Confirmatory",
+          "",
+          "",
+          "4137"
+        ]
+      },
+      {
+        "Cell": [
+          "1469",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "1471",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Unspecified",
+          "90903231",
+          "",
+          "",
+          "qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington: Cytoprotection (ATP)",
+          "Confirmatory",
+          "",
+          "",
+          "3064"
+        ]
+      },
+      {
+        "Cell": [
+          "1477",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1479",
+          "1",
+          "2",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "189491771",
+          "",
+          "Potency",
+          "Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2",
+          "Confirmatory",
+          "",
+          "",
+          "7068"
+        ]
+      },
+      {
+        "Cell": [
+          "1490",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "10954339",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1865",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "Quantitative High-Throughput Screen for Regulators of Epigenetic Control",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2101",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "496369",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential Chaperone Treatment of Gaucher Disease",
+          "Confirmatory",
+          "",
+          "",
+          "2629"
+        ]
+      },
+      {
+        "Cell": [
+          "2107",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "757912",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2717"
+        ]
+      },
+      {
+        "Cell": [
+          "2112",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "119393891",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen Homogenate",
+          "Confirmatory",
+          "",
+          "",
+          "2548"
+        ]
+      },
+      {
+        "Cell": [
+          "2517",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "6980812",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2549",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "282403581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "6732",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "10",
+          "IC50",
+          "The compound was evaluated for its inhibitory activity against 5-lipoxygenase using granulocytes-type cells",
+          "Confirmatory",
+          "11859001",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162016",
+          "10",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548481",
+          "20",
+          "IC50",
+          "IC50 value against ovine Prostaglandin G/H synthase 1",
+          "Confirmatory",
+          "10197960",
+          "",
+          "443551"
+        ]
+      },
+      {
+        "Cell": [
+          "162021",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "548481",
+          "37",
+          "IC50",
+          "In vitro inhibitory activity against Prostaglandin G/H synthase 1 in sheep",
+          "Confirmatory",
+          "10091674",
+          "",
+          "443551"
+        ]
+      },
+      {
+        "Cell": [
+          "162143",
+          "10",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548481",
+          "66",
+          "IC50",
+          "Inhibition of the ovine Prostaglandin G/H synthase 1 was determined by thin-layer chromatography assay",
+          "Confirmatory",
+          "11844663",
+          "",
+          "443551"
+        ]
+      },
+      {
+        "Cell": [
+          "162337",
+          "6",
+          "5",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3915797",
+          "",
+          "",
+          "Effective dose for inhibition of Prostaglandin G/H synthase 2",
+          "Other",
+          "7966148",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "162346",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.1",
+          "IC50",
+          "In vitro inhibition of prostaglandin G/H synthase 2 (COX-2).",
+          "Confirmatory",
+          "7473585",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162497",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.09",
+          "IC50",
+          "In vitro inhibitory activity against Prostaglandin G/H synthase 2 (COX-2) in human",
+          "Confirmatory",
+          "10091674",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162641",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.12",
+          "IC50",
+          "Inhibition of the human Prostaglandin G/H synthase 2 was determined by thin-layer chromatography assay",
+          "Confirmatory",
+          "11844663",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162665",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.01",
+          "IC50",
+          "Tested for inhibition against Prostaglandin G/H synthase 2",
+          "Confirmatory",
+          "7966148",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162669",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.001",
+          "IC50",
+          "The compound was evaluated for its inhibitory activity against Prostaglandin G/H synthase 2 using osteosarcomes cells",
+          "Confirmatory",
+          "11859001",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "166386",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.5",
+          "IC50",
+          "Evaluated for inhibition of COX-2 catalyzed PGE-2 production from LPS induced RAW 264.7 cells",
+          "Confirmatory",
+          "14980657",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "166388",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of COX-2 catalyzed PGE-2 production from LPS induced RAW 264.7 cells at concentration of 10 uM",
+          "Other",
+          "14980657",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "176241",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibitory effect for increase in plasma prostaglandin E2 (PGE2) level after arachidonic acid (AA) injection into COX-2 lipopolysaccharide-treated rats",
+          "Other",
+          "10821716",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "176242",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibitory effect for increase in plasma prostaglandin E2 (PGE2) level after arachidonic acid (AA) injection into, COX-1 non-lipopolysaccharide-treated rats",
+          "Other",
+          "10821716",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "177102",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "ED50 was measured by CFE assay method.",
+          "Other",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "177103",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "ED50 was measured by hyperalgesia assay method.",
+          "Other",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "177368",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "ED50 measured by CFE assay",
+          "Other",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "177369",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "ED50 measured by hyperalgesia assay",
+          "Other",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "177421",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Compound was evaluated for the effective dose in the rat adjuvant-induced arthritis model after oral administration",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "179689",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Percentage of gastric damage was measured in rats.",
+          "Other",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "23469",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Partition coefficient (logP)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "46852",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.19",
+          "IC50",
+          "IC50 against recombinant human Prostaglandin G/H synthase 2",
+          "Confirmatory",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "46853",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.19",
+          "IC50",
+          "Inhibition of recombinant human prostaglandin G/H synthase 2 (COX-2)",
+          "Confirmatory",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "46859",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "In vitro activity at a concentration of 10 uM against Prostaglandin G/H synthase 2",
+          "Other",
+          "10579834",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "46861",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.022",
+          "IC50",
+          "IC50 value was determined against Prostaglandin G/H synthase 2 of J7744A.1 cell lines.",
+          "Confirmatory",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "46862",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.022",
+          "IC50",
+          "IC50 value against Prostaglandin G/H synthase 2 of murine J774A.1 cell line",
+          "Confirmatory",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "54528",
+          "6",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "100",
+          "IC50",
+          "In vitro inhibitory activity against constitutive form of human recombinant cyclooxygenase (COX-1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "54554",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.1",
+          "IC50",
+          "In vitro inhibitory activity against inducible form of human recombinant cyclooxygenase (COX-2)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "54710",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "3.2",
+          "IC50",
+          "Inhibitory concentration required against COX-2 activity in intact human monocytes",
+          "Confirmatory",
+          "9871729",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "132323",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "3.1",
+          "IC50",
+          "Ability to inhibit the accumulation of PGE-2 in stimulated murine peritoneal macrophages",
+          "Confirmatory",
+          "10579834",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "132688",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.0021",
+          "IC50",
+          "Inhibitory activity against LPS stimulated RAW 264.7 macrophages",
+          "Confirmatory",
+          "11300882",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "134145",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "PGE-2 level was assayed in RAW 264.7 macrophages after a 20h stimulation with LPS followed by incubation with compound and arachidonic acid for 2 hr",
+          "Other",
+          "11300882",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "134146",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "PGE-2 levels were assayed in LPS stimulated RAW 264.7 macrophages for 20h in either presence or absence of compound",
+          "Other",
+          "11300882",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "134147",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "PGE-2 levels were assayed in inflamed paw after 5 hr carrageenan paw edema test in mice",
+          "Other",
+          "11300882",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "160060",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "6.8",
+          "IC50",
+          "Inhibitory effect on production of (COX-1) thromboxane B2 (TXB2) in human platelet cells",
+          "Confirmatory",
+          "10821716",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "160570",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.002",
+          "IC50",
+          "Inhibitory activity against murine Prostaglandin G/H synthase 2.",
+          "Confirmatory",
+          "15109651",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161335",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "100",
+          "IC50",
+          "In vitro inhibition of prostaglandin G/H synthase 1.",
+          "Confirmatory",
+          "7473585",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161471",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "3.3",
+          "IC50",
+          "IC50 against Prostaglandin G/H synthase 1 from human platelet rich plasma",
+          "Confirmatory",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161472",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "3.3",
+          "IC50",
+          "IC50 value against Prostaglandin G/H synthase 1 of human platelet rich plasma",
+          "Confirmatory",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161674",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "10",
+          "IC50",
+          "Tested for inhibition against Prostaglandin G/H synthase 1",
+          "Confirmatory",
+          "7966148",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161677",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "3",
+          "IC50",
+          "The compound was evaluated for its inhibitory activity against Prostaglandin G/H synthase 1 using monocytes-like cells",
+          "Confirmatory",
+          "11859001",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161850",
+          "3",
+          "8",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity as ratio of the inhibitory concentration values Prostaglandin G/H synthase 1 to Prostaglandin G/H synthase 2",
+          "Other",
+          "11859001",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161998",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "1.67",
+          "IC50",
+          "Inhibitory activity against murine prostaglandin G/H synthase 1.",
+          "Confirmatory",
+          "15109651",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "162015",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "20",
+          "IC50",
+          "IC50 against ovine Prostaglandin G/H synthase 1",
+          "Confirmatory",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "182009",
+          "2",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Compound was evaluated in vivo for the ability to inhibit inflammation caused by the introduction of carrageenan after oral administration using rat paw edema assay(assay performed at 30 mpk)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "320936",
+          "9",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.68",
+          "IC50",
+          "Inhibition of aromatase in human SKBR3 cells by tritiated water release assay",
+          "Confirmatory",
+          "18271519",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "333171",
+          "5",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Inhibition of TPA-induced ROS production in human neutrophils at 5 uM by chemiluminescence",
+          "Other",
+          "15387642",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "333173",
+          "5",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Antiproliferative activity against human HaCaT cells assessed as [3H]thymidine incorporation at 5 uM after 24 hrs",
+          "Other",
+          "15387642",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "333175",
+          "5",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of PGE2 production in human HaCaT cells at 5 uM after 24 hrs by RIA",
+          "Other",
+          "15387642",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "333176",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.01",
+          "IC50",
+          "Inhibition of PGE2 production in human HaCaT cells after 24 hrs by RIA",
+          "Confirmatory",
+          "15387642",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "333177",
+          "6",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human HaCaT cells assessed as LDH release at 5 uM after 24 hrs",
+          "Other",
+          "15387642",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "336477",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.16",
+          "IC50",
+          "Inhibition of COX2 by scintillation proximity assay",
+          "Confirmatory",
+          "12444669",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "340310",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3915797",
+          "28",
+          "IC50",
+          "Inhibition of human cyclooxygenase 2",
+          "Confirmatory",
+          "18588282",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "357982",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity against LPS-stimulated mouse RAW264.7 cells assessed as nitrite accumulation at 10 uM after 20 hrs by fluorimetry relative to control",
+          "Other",
+          "11678654",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358218",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "10",
+          "IC50",
+          "Antiinflammatory activity against LPS-stimulated mouse RAW264.7 cells assessed as nitrite accumulation after 20 hrs by fluorimetry",
+          "Confirmatory",
+          "11678654",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358219",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity against LPS-stimulated mouse RAW264.7 cells assessed as PGE2 accumulation at 10 uM after 20 hrs by RIA relative to control",
+          "Other",
+          "11678654",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "358220",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "2.1",
+          "IC50",
+          "Antiinflammatory activity against LPS-stimulated mouse RAW264.7 cells assessed as PGE2 accumulation after 20 hrs by RIA",
+          "Confirmatory",
+          "11678654",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "385238",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 at 10 uM",
+          "Other",
+          "18412396",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399404",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "166897622",
+          "100",
+          "IC50",
+          "Inhibition of bovine seminal microsomal COX1 assessed as PGE2 production preincubated for 10 mins",
+          "Confirmatory",
+          "9461646",
+          "",
+          "282022"
+        ]
+      },
+      {
+        "Cell": [
+          "399405",
+          "10",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3914304",
+          "53",
+          "IC50",
+          "Inhibition of sheep placental cotyledons COX2 assessed as PGE2 production preincubated for 10 mins",
+          "Confirmatory",
+          "9461646",
+          "",
+          "443460"
+        ]
+      },
+      {
+        "Cell": [
+          "399406",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity ratio of IC50 for sheep placental cotyledons COX2 to IC50 for bovine seminal microsomal COX1 preincubated for 10 mins",
+          "Other",
+          "9461646",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "399407",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "166897622",
+          "",
+          "",
+          "Inhibition of bovine seminal microsomal COX1 assessed as PGE2 production at 100 uM preincubated for 10 mins",
+          "Other",
+          "9461646",
+          "",
+          "282022"
+        ]
+      },
+      {
+        "Cell": [
+          "402402",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "53",
+          "IC50",
+          "Inhibition of COX2-catalyzed prostaglandin biosynthesis after 10 mins of preincubation",
+          "Confirmatory",
+          "9784154",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "402403",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "100",
+          "IC50",
+          "Inhibition of COX1-catalyzed prostaglandin biosynthesis 10 mins of preincubation",
+          "Confirmatory",
+          "9784154",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "402404",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Ratio of IC50 for COX2 to IC50 for COX1",
+          "Other",
+          "9784154",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "403340",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.16",
+          "IC50",
+          "Inhibition of COX2",
+          "Confirmatory",
+          "16038536",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "405533",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "20",
+          "IC50",
+          "Inhibition of mPGES1",
+          "Confirmatory",
+          "18459759",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "411439",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548483",
+          "",
+          "",
+          "Inhibition of COX2-mediated PGE2 production in LPS-stimulated mouse RAW264.7 cells at 0.1 uM by ELISA",
+          "Other",
+          "19041241",
+          "",
+          "19225"
+        ]
+      },
+      {
+        "Cell": [
+          "418267",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548483",
+          "",
+          "",
+          "Inhibition of COX2-mediated PGE2 production in LPS-stimulated mouse RAW264.7 cells at 10 uM by enzyme immunoassay",
+          "Other",
+          "19233646",
+          "",
+          "19225"
+        ]
+      },
+      {
+        "Cell": [
+          "418268",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "548483",
+          "0.05",
+          "IC50",
+          "Inhibition of COX2-mediated PGE2 production in LPS-stimulated mouse RAW264.7 cells by enzyme immunoassay",
+          "Confirmatory",
+          "19233646",
+          "",
+          "19225"
+        ]
+      },
+      {
+        "Cell": [
+          "418269",
+          "3",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cytotoxicity against mouse RAW264.7 cells assessed as cell viability at 10 uM by MTT assay",
+          "Other",
+          "19233646",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "427630",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3914304",
+          "2.6",
+          "IC50",
+          "Inhibition of COX2 in sheep placental vesicle by enzyme immunoassay",
+          "Confirmatory",
+          "19481465",
+          "",
+          "443460"
+        ]
+      },
+      {
+        "Cell": [
+          "427903",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity in LPS-stimulated mouse RAW264.7 cells assessed as PGE2 production at 10 uM treated 1 hr before LPS challenge measured after 24 hrs by enzyme immunoassay (RVb=11.5 +/- 0.36 uM)",
+          "Other",
+          "19500975",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "184399",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Percentage inhibition of the prostaglandin synthesis was measured in rats.",
+          "Other",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "185328",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Lesion frequency measured in rats",
+          "Other",
+          "10197959",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "192889",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Percentage of gastric damage was measured in rats.",
+          "Other",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "193141",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Percentage inhibition of the prostaglandin synthesis was measured in rats.",
+          "Other",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "193990",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Lesion frequency was measured in rats.",
+          "Other",
+          "10197960",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "221439",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity, assessed by the carrageenan paw edema test in mice",
+          "Other",
+          "11300882",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "228022",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.0019",
+          "IC50",
+          "Inhibitory effect on production of (COX-2) prostaglandin E2 (PGE2) in human IL1-beta stimulated synovial cells",
+          "Confirmatory",
+          "10821716",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "232419",
+          "3",
+          "6",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Ratio of inhibition of COX-1 to COX-2",
+          "Other",
+          "10821716",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "233584",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Ratio of IC50 of COX-1 to COX-2.",
+          "Other",
+          "7473585",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "233833",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity (COX-1/COX-2) was determined",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "234944",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "317373262",
+          "",
+          "",
+          "Ratio of IC50 for COX-1 and COX-2 binding inhibitors",
+          "Other",
+          "7966148",
+          "",
+          "5742"
+        ]
+      },
+      {
+        "Cell": [
+          "234944",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3915797",
+          "",
+          "",
+          "Ratio of IC50 for COX-1 and COX-2 binding inhibitors",
+          "Other",
+          "7966148",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "235171",
+          "3",
+          "5",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity ratio of COX-1 to that of COX-2",
+          "Other",
+          "10091674",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "260816",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "117293",
+          "0.68",
+          "IC50",
+          "Inhibition of CYP450 aromatase activity in SK-BR-3 cells",
+          "Confirmatory",
+          "16480277",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "260817",
+          "4",
+          "6",
+          "",
+          "103165236",
+          "4553",
+          "Inactive",
+          "117293",
+          "",
+          "",
+          "Inhibition of aromatase activity in human placental microsomes at 5 uM",
+          "Other",
+          "16480277",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "260818",
+          "3",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Reduction in PGE2 levels in MDA-MB-231 cell",
+          "Other",
+          "16480277",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "260819",
+          "3",
+          "4",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Reduction in CYP19 mRNA expression in SKBr3 cells after 24h exposure to 25uM relative to control",
+          "Other",
+          "16480277",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "260820",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Inhibitory activity against COX2",
+          "Other",
+          "16480277",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "286320",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Inhibition of PGE2 production in LPS-stimulated mouse RAW264.7 cells at 10 uM after 18 hrs",
+          "Other",
+          "17407277",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "286322",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of PGE2 production in LPS-stimulated mouse RAW264.7 cells at 10 uM after 2 hrs",
+          "Other",
+          "17407277",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "292899",
+          "6",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.72",
+          "IC50",
+          "Cytotoxicity against human SK-BR-3 cells after 24 hrs by MTT assay relative to NS398",
+          "Confirmatory",
+          "17095221",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "315991",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "317373262",
+          "35.68",
+          "IC50",
+          "Inhibition of COX1 in human whole blood assessed as effect on A-23187-stimulated TxB2 production",
+          "Confirmatory",
+          "18063374",
+          "",
+          "5742"
+        ]
+      },
+      {
+        "Cell": [
+          "315992",
+          "9",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3915797",
+          "0.61",
+          "IC50",
+          "Inhibition of COX2 in human whole blood assessed as effect on LPS-stimulated PGE2 production",
+          "Confirmatory",
+          "18063374",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "315993",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity for human COX2 over human COX1 by human whole blood assay",
+          "Other",
+          "18063374",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "624136",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "208342286",
+          "",
+          "",
+          "mutant P53 Measured in Biochemical System Using Small Molecule MicroArray - 2077-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "624138",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "21618340",
+          "",
+          "",
+          "SMM STAT-3 Measured in Biochemical System Using Small Molecule MicroArray - 2076-01_Other_SinglePoint_HTS_Activity_Set2",
+          "Screening",
+          "",
+          "",
+          "6774"
+        ]
+      },
+      {
+        "Cell": [
+          "624139",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "34577122",
+          "",
+          "",
+          "NF-KappaB Measured in Biochemical System Using Small Molecule MicroArray - 2080-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4790"
+        ]
+      },
+      {
+        "Cell": [
+          "624141",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "71774083",
+          "",
+          "",
+          "SMM c-myc Measured in Biochemical System Using Small Molecule MicroArray - 2081-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4609"
+        ]
+      },
+      {
+        "Cell": [
+          "624151",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Re-Activators of the P53 Mutant Pathway Measured in Cell-Based System Using Plate Reader - 2071-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85787302",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485350",
+          "1",
+          "1",
+          "",
+          "99301080",
+          "4553",
+          "Inactive",
+          "126642418",
+          "",
+          "",
+          "A screen for compounds that inhibit the bacterial siderophore biosynthetic enzyme BasE",
+          "Screening",
+          "",
+          "",
+          "4918541"
+        ]
+      },
+      {
+        "Cell": [
+          "493033",
+          "1",
+          "1",
+          "",
+          "99301080",
+          "4553",
+          "Inactive",
+          "81706979",
+          "",
+          "",
+          "A screen for compounds that inhibit the bacterial siderophore biosynthetic enzyme MbtI",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588519",
+          "1",
+          "1",
+          "",
+          "99301080",
+          "4553",
+          "Inactive",
+          "52695378",
+          "",
+          "",
+          "A screen for compounds that inhibit viral RNA polymerase binding and polymerization activities",
+          "Other",
+          "21722674",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "602314",
+          "1",
+          "1",
+          "",
+          "99301080",
+          "4553",
+          "Inactive",
+          "151220867",
+          "",
+          "",
+          "A screen for compounds that modulate the activity of the Staphylococcus aureus MgrA protein",
+          "Other",
+          "",
+          "",
+          "5330370"
+        ]
+      },
+      {
+        "Cell": [
+          "493162",
+          "1",
+          "1",
+          "",
+          "99302600",
+          "4553",
+          "Inactive",
+          "335756",
+          "",
+          "",
+          "A screen for compounds that inhibit processive DNA synthesis of vaccinia virus",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540299",
+          "1",
+          "1",
+          "",
+          "99302600",
+          "4553",
+          "Inactive",
+          "15607688",
+          "",
+          "",
+          "A screen for compounds that inhibit the MenB enzyme of Mycobacterium tuberculosis",
+          "Other",
+          "20850304",
+          "",
+          "887529"
+        ]
+      },
+      {
+        "Cell": [
+          "588519",
+          "1",
+          "1",
+          "",
+          "99302600",
+          "4553",
+          "Inactive",
+          "52695378",
+          "",
+          "",
+          "A screen for compounds that inhibit viral RNA polymerase binding and polymerization activities",
+          "Other",
+          "21722674",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "453928",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "4.8",
+          "IC50",
+          "Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-induced PGE2 production by EIA",
+          "Confirmatory",
+          "20004572",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "457533",
+          "8",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "129900",
+          "63.7",
+          "IC50",
+          "Inhibition of COX1 in mouse RAW264.7 cells by enzyme immunoassay",
+          "Confirmatory",
+          "20056549",
+          "",
+          "19224"
+        ]
+      },
+      {
+        "Cell": [
+          "457534",
+          "8",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "548483",
+          "0.81",
+          "IC50",
+          "Inhibition of COX2 in mouse RAW264.7 cells by enzyme immunoassay",
+          "Confirmatory",
+          "20056549",
+          "",
+          "19225"
+        ]
+      },
+      {
+        "Cell": [
+          "461096",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "10",
+          "IC50",
+          "Inhibition of potato tuber 5LOX by polarographic method",
+          "Confirmatory",
+          "20045317",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "469009",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 at 100 uM after 15 mins",
+          "Other",
+          "19775092",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "475085",
+          "8",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3914304",
+          "2.6",
+          "IC50",
+          "Inhibition of sheep placental cotyledens COX2 assessed as PGE2 level by EIA",
+          "Confirmatory",
+          "20236826",
+          "",
+          "443460"
+        ]
+      },
+      {
+        "Cell": [
+          "487177",
+          "3",
+          "6",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3915797",
+          "",
+          "",
+          "Inhibition of human recombinant COX2 assessed as PGE2 level at 50 uM by ELISA",
+          "Other",
+          "20207453",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "489468",
+          "3",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548483",
+          "",
+          "",
+          "Inhibition of COX-2-mediated PGE2 production in LPS-induced mouse RAW 264.7 cells at 10 uM after 24 hrs by EIA",
+          "Other",
+          "20554444",
+          "",
+          "19225"
+        ]
+      },
+      {
+        "Cell": [
+          "491942",
+          "8",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.15",
+          "IC50",
+          "Inhibition of COX2 by microplate reader",
+          "Confirmatory",
+          "20540535",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500922",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Inhibition of COX2-mediated decrease in gata1 expression in heat-stimulated heterozygous transgenic zebrafish embryo assessed as restoration of gata1 level at 25 uM by in-situ hybridization analysis",
+          "Other",
+          "19172146",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500925",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Inhibition of COX2-mediated decrease in gata1 expression in heterozygous transgenic zebrafish embryo assessed as restoration of gata1 level at 25 uM by in-situ hybridization analysis",
+          "Other",
+          "19172146",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500927",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 in heat-stimulated heterozygous transgenic zebrafish embryo assessed as MPO-positive granulocytic cell accumulation at 25 uM by in situ hybridization analysis",
+          "Other",
+          "19172146",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500929",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 in heterozygous transgenic zebrafish embryo assessed as MPO-positive granulocytic cell accumulation at 25 uM by in situ hybridization analysis",
+          "Other",
+          "19172146",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500931",
+          "3",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 in heat-stimulated heterozygous transgenic zebrafish embryo assessed as MPO-positive granulocytic cell accumulation at 25 uM by in situ hybridization analysis in presence of PGE2",
+          "Other",
+          "19172146",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "500941",
+          "3",
+          "6",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3915797",
+          "",
+          "",
+          "Inhibition of COX2 in human K562 cells assessed as blockade of AML1-ETO protein-dependent erythroid differentiation after 4 days by benzidine staining method",
+          "Other",
+          "19172146",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "500942",
+          "2",
+          "7",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3915797",
+          "",
+          "",
+          "Inhibition of COX2-mediated AE beta-casein/TCF signaling in human K562 cells harboring AML1-ETO protein at 75 uM by luciferase reporter assay relative to control",
+          "Other",
+          "19172146",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "510444",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "548481",
+          "14.1",
+          "IC50",
+          "Inhibition of sheep COX1 by spectrophotometry",
+          "Confirmatory",
+          "20804197",
+          "",
+          "443551"
+        ]
+      },
+      {
+        "Cell": [
+          "510445",
+          "7",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3914304",
+          "73.2",
+          "IC50",
+          "Inhibition of sheep COX2 by spectrophotometry",
+          "Confirmatory",
+          "20804197",
+          "",
+          "443460"
+        ]
+      },
+      {
+        "Cell": [
+          "602332",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "168984549",
+          "",
+          "Potency",
+          "qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588579",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "7705344",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Polymerase Kappa",
+          "Confirmatory",
+          "",
+          "",
+          "51426"
+        ]
+      },
+      {
+        "Cell": [
+          "504847",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "63054845",
+          "",
+          "Potency",
+          "Inhibitors of the vitamin D receptor (VDR): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "504845",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "86301163",
+          "",
+          "Potency",
+          "Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "5999"
+        ]
+      },
+      {
+        "Cell": [
+          "504332",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "168985070",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504327",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "153791535",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of GCN5L2",
+          "Confirmatory",
+          "",
+          "",
+          "2648"
+        ]
+      },
+      {
+        "Cell": [
+          "485290",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "20150581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485281",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "254220970",
+          "",
+          "Potency",
+          "qHTS Assay for Identification of Novel General Anesthetics",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "602332",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "168984549",
+          "",
+          "Potency",
+          "qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588579",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "7705344",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Polymerase Kappa",
+          "Confirmatory",
+          "",
+          "",
+          "51426"
+        ]
+      },
+      {
+        "Cell": [
+          "588379",
+          "1",
+          "2",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "13399304",
+          "",
+          "Potency",
+          "qHTS for inhibitors of Vif-A3G interactions: Validation",
+          "Confirmatory",
+          "",
+          "",
+          "60489"
+        ]
+      },
+      {
+        "Cell": [
+          "504865",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "118600387",
+          "28.1838",
+          "Potency",
+          "Inhibitors of USP1/UAF1: Pilot qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7398"
+        ]
+      },
+      {
+        "Cell": [
+          "504847",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "63054845",
+          "44.6684",
+          "Potency",
+          "Inhibitors of the vitamin D receptor (VDR): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "504845",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Active",
+          "86301163",
+          "8.4368",
+          "Potency",
+          "Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "5999"
+        ]
+      },
+      {
+        "Cell": [
+          "504327",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "153791535",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of GCN5L2",
+          "Confirmatory",
+          "",
+          "",
+          "2648"
+        ]
+      },
+      {
+        "Cell": [
+          "485290",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "20150581",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "510446",
+          "2",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity index, ratio of IC50 for sheep COX1 to IC50 for sheep COX2",
+          "Other",
+          "20804197",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "612351",
+          "1",
+          "6",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3915797",
+          "",
+          "",
+          "Inhibition of human recombinant COX2 at 5 uM incubated for 10 mins by enzyme immunoassay",
+          "Other",
+          "21775152",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "620116",
+          "6",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "20",
+          "IC50",
+          "Inhibition of microsomal PGES",
+          "Confirmatory",
+          "21920764",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "637532",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "7387730",
+          "20",
+          "IC50",
+          "Inhibition of mPGES-1 in human A549 cell microsomes assessed as conversion of PGH2 into PGE2 at 0 degC after 5 mins by HPLC-UV analysis",
+          "Confirmatory",
+          "22209272",
+          "",
+          "9536"
+        ]
+      },
+      {
+        "Cell": [
+          "637535",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "10",
+          "IC50",
+          "Inhibition of mPGES-1",
+          "Confirmatory",
+          "22209272",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "493017",
+          "1",
+          "1",
+          "",
+          "103853374",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Wombat Data for BeliefDocking",
+          "Other",
+          "",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "686978",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inconclusive",
+          "79154014",
+          "26.6086",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "686979",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "79154014",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "720532",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "420597",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720533",
+          "1",
+          "1",
+          "",
+          "11113808",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686978",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inconclusive",
+          "79154014",
+          "50.1187",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "686979",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "79154014",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "720532",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "420597",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720533",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720579",
+          "2",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "222762",
+          "",
+          "Potency",
+          "qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter Primary qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "3707576"
+        ]
+      },
+      {
+        "Cell": [
+          "720580",
+          "1",
+          "1",
+          "",
+          "26751985",
+          "4553",
+          "Inactive",
+          "222762",
+          "",
+          "Potency",
+          "qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: Venus Reporter Primary qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "3707576"
+        ]
+      },
+      {
+        "Cell": [
+          "720717",
+          "1",
+          "2",
+          "",
+          "92310168",
+          "4553",
+          "Inactive",
+          "1718329",
+          "",
+          "",
+          "Chemical Probes of Kaposi's Sarcoma Herpes Virus Latent Infection",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "683092",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "548481",
+          "205.4",
+          "IC50",
+          "Inhibition of ovine COX1 assessed as inhibition of PGF2alpha production from PGH2 by enzyme immuno assay",
+          "Confirmatory",
+          "23047224",
+          "",
+          "443551"
+        ]
+      },
+      {
+        "Cell": [
+          "683093",
+          "5",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3915797",
+          "1",
+          "IC50",
+          "Inhibition of human recombinant COX2 assessed as inhibition of PGF2alpha production from PGH2 by enzyme immunoassay",
+          "Confirmatory",
+          "23047224",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "683094",
+          "1",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity index, ratio of IC50 for ovine COX1 to IC50 for human recombinant COX2",
+          "Other",
+          "23047224",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "683131",
+          "1",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Inhibition of COX2 expression in PMA-Ion-stimulated human PBL at 5 uM after 20 hrs by Western blot analysis",
+          "Other",
+          "23047231",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "688618",
+          "4",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "3914304",
+          "2.1",
+          "IC50",
+          "Inhibition of sheep placental COX2 assessed as PGE2 production by enzyme immunoassay",
+          "Confirmatory",
+          "21800856",
+          "",
+          "443460"
+        ]
+      },
+      {
+        "Cell": [
+          "704816",
+          "2",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "IC50",
+          "Antiangiogenic activity against VEGFA-stimulated capillary differentiation in HUVEC after 18 hrs by matrigel assay",
+          "Confirmatory",
+          "23110475",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "704817",
+          "2",
+          "2",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "IC50",
+          "Antiangiogenic activity against VEGFA-stimulated cell proliferation in HUVEC after 48 hrs by BrdU incorporation assay",
+          "Confirmatory",
+          "23110475",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "704826",
+          "1",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiangiogenic activity against VEGFA-stimulated mouse highly metastatic LLC cells xenografted in C57BL/6 mouse assessed as reduction of vessel formation at 5 mg/kg, sc qd for 7 days relative to control",
+          "Other",
+          "23110475",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "704833",
+          "1",
+          "3",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antitumor activity against VEGFA-stimulated mouse highly metastatic LLC cells xenografted in C57BL/6 mouse assessed as tumor growth inhibition at 5 mg/kg, sc qd for 18 days relative to control",
+          "Other",
+          "23110475",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "717377",
+          "3",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "20",
+          "IC50",
+          "Inhibition of microsomal PGES1 using PGH2 as substrate by RP-HPLC method",
+          "Confirmatory",
+          "23147075",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1063480",
+          "1",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "",
+          "",
+          "Antiinflammatory activity against mouse RAW264.7 cells assessed as inhibition of LPS-induced PGE2 production at 3 uM administered 1 hr prior to LPS-challenge measured after 24 hrs by EIA",
+          "Other",
+          "24360561",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1063491",
+          "1",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Active",
+          "",
+          "0.00701",
+          "IC50",
+          "Antiinflammatory activity against mouse RAW264.7 cells assessed as inhibition of LPS-induced PGE2 production administered 1 hr prior to LPS-challenge measured after 24 hrs by EIA",
+          "Confirmatory",
+          "24360561",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1098625",
+          "1",
+          "1",
+          "",
+          "103165236",
+          "4553",
+          "Unspecified",
+          "3915797",
+          "",
+          "",
+          "Inhibition of COX2 (unknown origin)-mediated PGE2 production at 10 uM",
+          "Other",
+          "23731643",
+          "",
+          "5743"
+        ]
+      }
+    ]
+  }
+}

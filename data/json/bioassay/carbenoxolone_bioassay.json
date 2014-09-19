@@ -1,0 +1,1431 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "433140",
+          "8",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "30316364",
+          "0.082",
+          "IC50",
+          "Inhibition of mouse microsomal 11beta-HSD2 expressed in HEK293 cells assessed as conversion of [3H]cortisone to [3H]cortisol by scintillation proximity assay",
+          "Confirmatory",
+          "19564108",
+          "",
+          "15484"
+        ]
+      },
+      {
+        "Cell": [
+          "409954",
+          "4",
+          "6",
+          "",
+          "103590439",
+          "636403",
+          "Inactive",
+          "341940599",
+          "",
+          "",
+          "Inhibition of mouse brain MAOA",
+          "Other",
+          "18834112",
+          "",
+          "17161"
+        ]
+      },
+      {
+        "Cell": [
+          "343737",
+          "6",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "",
+          "2.63",
+          "IC50",
+          "Inhibition of chymotrypsin-like activity of human 20S proteasome",
+          "Confirmatory",
+          "18562200",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "75524",
+          "3",
+          "4",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Evaluation of bronchodilator activity at dose 60 mg/kg perorally 1 hr prior to histamine aerosol exposure",
+          "Other",
+          "7411545",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "3089",
+          "7",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "",
+          "0.083",
+          "IC50",
+          "Ability to convert [3H]cortisol to the tritium labeled cortisone in the presence of human 11 beta hydroxysteroid dehydrogenase type 2",
+          "Confirmatory",
+          "12190302",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "3088",
+          "7",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "",
+          "0.108",
+          "IC50",
+          "In vitro inhibitory activity against mouse 11 beta hydroxysteroid dehydrogenase type 1 using scintillation proximity assay (SPA).",
+          "Confirmatory",
+          "12190302",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "3086",
+          "7",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "",
+          "0.33",
+          "IC50",
+          "In vitro inhibitory activity against human 11 beta hydroxysteroid dehydrogenase type 1 using scintillation proximity assay (SPA)",
+          "Confirmatory",
+          "12190302",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2316",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Activators of the Reversal of PD-1 Mediated Inhibitors of T-Cell Inhibition",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1195",
+          "1",
+          "2",
+          "",
+          "48415693",
+          "636403",
+          "Active",
+          "",
+          "",
+          "",
+          "DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624260",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "109633019",
+          "",
+          "",
+          "NSD2 Inhibitors Measured in Biochemical System Using Plate Reader - 2115-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7468"
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624137",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "881546",
+          "",
+          "",
+          "SMM ID4 Measured in Biochemical System Using Small Molecule MicroArray - 2128-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3400"
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "526979",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "118569",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD1 expressed in HEK293 cells assessed as residual conversion of [1,2-3H]-cortisone to cortisol at 1 uM by scintillation counting",
+          "Other",
+          "20851614",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "587122",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "118569",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD1 expressed in HEK293 cells assessed as conversion of [1,2-[3H]cortisone to cortisol at 1 uM after 10 mins by scintillation counting",
+          "Other",
+          "21376605",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "587123",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "30316367",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD2 expressed in HEK293 cells assessed as conversion of [1,2-[3H]cortisone to cortisol at 1 uM after 10 mins by scintillation counting",
+          "Other",
+          "21376605",
+          "",
+          "3291"
+        ]
+      },
+      {
+        "Cell": [
+          "588211",
+          "2",
+          "3",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Literature-mined compound from Fourches et al multi-species drug-induced liver injury (DILI) dataset, effect in humans",
+          "Other",
+          "20014752",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588212",
+          "2",
+          "3",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Literature-mined compound from Fourches et al multi-species drug-induced liver injury (DILI) dataset, effect in rodents",
+          "Other",
+          "20014752",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588213",
+          "2",
+          "3",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Literature-mined compound from Fourches et al multi-species drug-induced liver injury (DILI) dataset, effect in non-rodents",
+          "Other",
+          "20014752",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "526978",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "30316367",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD2 expressed in HEK293 cells assessed as residual conversion of [1,2,6,7-3H]-cortisol to cortisone at 1 uM by scintillation counting",
+          "Other",
+          "20851614",
+          "",
+          "3291"
+        ]
+      },
+      {
+        "Cell": [
+          "497005",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Pneumocystis carinii",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496832",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Trypanosoma brucei rhodesiense",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496831",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Cryptosporidium parvum",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496830",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania major",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496829",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania infantum",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496828",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania donovani",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496827",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania amazonensis",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496826",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Entamoeba histolytica",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496825",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania mexicana",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496824",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Toxoplasma gondii",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496823",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Trichomonas vaginalis",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496821",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Leishmania",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496820",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Trypanosoma brucei",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496819",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Plasmodium falciparum",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496818",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Trypanosoma brucei brucei",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "496817",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Inconclusive",
+          "",
+          "",
+          "IC50",
+          "Antimicrobial activity against Trypanosoma cruzi",
+          "Confirmatory",
+          "20185316",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "461097",
+          "8",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "118569",
+          "0.5",
+          "IC50",
+          "Inhibition of 11beta-HSD1 in human microsomes by HTRF cortisol assay",
+          "Confirmatory",
+          "20045318",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "456097",
+          "4",
+          "5",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "30316367",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD2 expressed in HEK293 cells assessed as oxidation of [1,2,6,7-3H]cortisol to cortisone at 1 uM after 10 mins by scintillation counting",
+          "Other",
+          "19914836",
+          "",
+          "3291"
+        ]
+      },
+      {
+        "Cell": [
+          "456095",
+          "4",
+          "5",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "118569",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD1 expressed in HEK293 cells assessed as conversion of [1,2-3H]cortisone to cortisol at 1 uM after 10 mins by scintillation counting",
+          "Other",
+          "19914836",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "550731",
+          "7",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "118569",
+          "0.5",
+          "IC50",
+          "Inhibition of human 11beta-HSD1 expressed in CHO cells after 3 hrs by HTRF cortisol assay",
+          "Confirmatory",
+          "21093259",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "550732",
+          "6",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "1706408",
+          "0.25",
+          "IC50",
+          "Inhibition of mouse 11beta-HSD1 expressed in CHO cells after 3 hrs by HTRF cortisol assay",
+          "Confirmatory",
+          "21093259",
+          "",
+          "15483"
+        ]
+      },
+      {
+        "Cell": [
+          "587111",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "118569",
+          "",
+          "",
+          "Inhibition of human recombinant 11beta-HSD1 expressed in HEK293 cells assessed as residual conversion of [1,2-[3H]cortisone to cortisol at 1000 nM after 10 mins by scintillation counting",
+          "Other",
+          "21376605",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "587114",
+          "2",
+          "7",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "30316367",
+          "",
+          "",
+          "Inhibition of human 11beta-HSD2 expressed in HEK293 cells assessed as residual conversion of [1,2,6,7-[3H]cortisol to cortisone at 1000 nM after 10 mins by scintillation counting",
+          "Other",
+          "21376605",
+          "",
+          "3291"
+        ]
+      },
+      {
+        "Cell": [
+          "1079949",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Proposed mechanism(s) of liver damage. [column 'MEC' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079948",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Times to onset, minimal and maximal, observed in the indexed observations. [column 'DELAI' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079947",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Comments (NB not yet translated). [column 'COMMENTAIRES' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079946",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Presence of at least one case with successful reintroduction. [column 'REINT' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079945",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Animal toxicity known. [column 'TOXIC' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079944",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Benign tumor, proven histopathologically. Value is number of references indexed. [column 'T.BEN' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079943",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Malignant tumor, proven histopathologically. Value is number of references indexed. [column 'T.MAL' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079942",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Steatosis, proven histopathologically. Value is number of references indexed. [column 'STEAT' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079941",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Liver damage due to vascular disease: peliosis hepatitis, hepatic veno-occlusive disease, Budd-Chiari syndrome. Value is number of references indexed. [column 'VASC' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079940",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Granulomatous liver disease, proven histopathologically. Value is number of references indexed. [column 'GRAN' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079939",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cirrhosis, proven histopathologically. Value is number of references indexed. [column 'CIRRH' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079938",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Chronic liver disease either proven histopathologically, or through a chonic elevation of serum amino-transferase activity after 6 months. Value is number of references indexed. [column 'CHRON' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079937",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Severe hepatitis, defined as possibly life-threatening liver failure or through clinical observations. Value is number of references indexed. [column 'MASS' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079936",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Choleostatic liver toxicity, either proven histopathologically or where the ratio of maximal ALT or AST activity above normal to that of Alkaline Phosphatase is < 2 (see ACUTE). Value is number of references indexed. [column 'CHOLE' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079935",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cytolytic liver toxicity, either proven histopathologically or where the ratio of maximal ALT or AST activity above normal to that of Alkaline Phosphatase is > 5 (see ACUTE). Value is number of references indexed. [column 'CYTOL' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079934",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Highest frequency of acute liver toxicity observed during clinical trials, expressed as a percentage. [column '% AIGUE' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079933",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Acute liver toxicity defined via clinical observations and clear clinical-chemistry results: serum ALT or AST activity > 6 N or serum alkaline phosphatases activity > 1.7 N. This category includes cytolytic, choleostatic and mixed liver toxicity. Value is number of references indexed. [column 'AIGUE' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079932",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Highest frequency of moderate liver toxicity observed during clinical trials, expressed as a percentage. [column '% BIOL' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1079931",
+          "1",
+          "1",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Moderate liver toxicity, defined via clinical-chemistry results: ALT or AST serum activity 6 times the normal upper limit (N) or alkaline phosphatase serum activity of 1.7 N. Value is number of references indexed. [column 'BIOL' in source]",
+          "Other",
+          "15646539",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "749046",
+          "1",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Unspecified",
+          "118569",
+          "",
+          "",
+          "Inhibition of full-length human 11beta-HSD1 expressed in HEK293 cells at 10 uM after 2 hrs by scintillation proximity assay relative to control",
+          "Other",
+          "23597793",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "664823",
+          "5",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "118569",
+          "0.5",
+          "IC50",
+          "Inhibition of human 11beta-HSD1 expressed in CHO-K1 cells using cortisone as substrate after 3 hrs by HTRF assay",
+          "Confirmatory",
+          "24900439",
+          "",
+          "3290"
+        ]
+      },
+      {
+        "Cell": [
+          "664593",
+          "5",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "30316364",
+          "0.206",
+          "IC50",
+          "Inhibition of mouse 11beta-HSD2 expressed in HEK293 cells assessed as conversion of [3H]cortisone into [3H]cortisol by scintillation proximity assay",
+          "Confirmatory",
+          "22360639",
+          "",
+          "15484"
+        ]
+      },
+      {
+        "Cell": [
+          "657951",
+          "4",
+          "2",
+          "",
+          "103590439",
+          "636403",
+          "Active",
+          "30316364",
+          "0.082",
+          "EC50",
+          "Inhibition of mouse 11beta-HSD2 expressed in HEK293 cells assessed as [3H]cortisol production after 60 mins by SPA",
+          "Confirmatory",
+          "22440625",
+          "",
+          "15484"
+        ]
+      },
+      {
+        "Cell": [
+          "651548",
+          "1",
+          "1",
+          "",
+          "85787318",
+          "636403",
+          "Inactive",
+          "21361095",
+          "",
+          "",
+          "EZH2/PRC2 methyltransferase inhibitors Measured in Biochemical System Using Plate Reader - 2125-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "2146"
+        ]
+      }
+    ]
+  }
+}

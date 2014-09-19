@@ -1,0 +1,348 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "624260",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "109633019",
+          "",
+          "",
+          "NSD2 Inhibitors Measured in Biochemical System Using Plate Reader - 2115-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7468"
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624151",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Re-Activators of the P53 Mutant Pathway Measured in Cell-Based System Using Plate Reader - 2071-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624141",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "71774083",
+          "",
+          "",
+          "SMM c-myc Measured in Biochemical System Using Small Molecule MicroArray - 2081-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4609"
+        ]
+      },
+      {
+        "Cell": [
+          "624139",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "34577122",
+          "",
+          "",
+          "NF-KappaB Measured in Biochemical System Using Small Molecule MicroArray - 2080-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "4790"
+        ]
+      },
+      {
+        "Cell": [
+          "624138",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "21618340",
+          "",
+          "",
+          "SMM STAT-3 Measured in Biochemical System Using Small Molecule MicroArray - 2076-01_Other_SinglePoint_HTS_Activity_Set2",
+          "Screening",
+          "",
+          "",
+          "6774"
+        ]
+      },
+      {
+        "Cell": [
+          "624137",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "881546",
+          "",
+          "",
+          "SMM ID4 Measured in Biochemical System Using Small Molecule MicroArray - 2128-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3400"
+        ]
+      },
+      {
+        "Cell": [
+          "624136",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "208342286",
+          "",
+          "",
+          "mutant P53 Measured in Biochemical System Using Small Molecule MicroArray - 2077-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "651548",
+          "1",
+          "1",
+          "",
+          "85788396",
+          "5460428",
+          "Inactive",
+          "21361095",
+          "",
+          "",
+          "EZH2/PRC2 methyltransferase inhibitors Measured in Biochemical System Using Plate Reader - 2125-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "2146"
+        ]
+      }
+    ]
+  }
+}

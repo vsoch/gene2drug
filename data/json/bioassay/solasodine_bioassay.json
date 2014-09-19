@@ -1,0 +1,2514 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "65",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HT29 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "59",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the U251 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "53",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SNB-19 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "49",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-539 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "47",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-295 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "45",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-268 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "43",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the DU-145 Prostate cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "41",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the PC-3 Prostate cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "39",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "37",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "89",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the BT-549 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "91",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the T-47D Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "93",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "95",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "97",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HS 578T Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "99",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "101",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "103",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "105",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-4 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "107",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-5 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "109",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "113",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "115",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SR Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "119",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "123",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "125",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "129",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the A498 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "131",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the CAKI-1 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "133",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "137",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the 786-0 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "139",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the ACHN Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "141",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the TK-10 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "143",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UO-31 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "145",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SN12C Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "155",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the rad50 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "157",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the mec2-1 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "165",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "167",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the bub3 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "175",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "35",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "33",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "31",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "29",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "25",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "23",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "21",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "19",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "15",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "13",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "9",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "7",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "5",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H322M Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "3",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "67",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "71",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCT-15 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "73",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the KM12 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "77",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "79",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCT-116 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "81",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SW-620 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "83",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MCF7 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "85",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "87",
+          "1",
+          "1",
+          "",
+          "564401",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-N Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "39",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "65",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HT29 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "67",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "71",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCT-15 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "73",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the KM12 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "77",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "79",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HCT-116 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "81",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SW-620 Colon cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "83",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MCF7 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "85",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "87",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-N Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "89",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the BT-549 Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "91",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the T-47D Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "93",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "95",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "97",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HS 578T Breast cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "99",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "101",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "103",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "105",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-4 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "107",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-5 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "109",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Ovarian cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "113",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "41",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the PC-3 Prostate cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "43",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the DU-145 Prostate cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "45",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-268 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "47",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-295 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "49",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SF-539 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "53",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SNB-19 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "131",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the CAKI-1 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "133",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "137",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the 786-0 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "139",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the ACHN Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "141",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the TK-10 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "143",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UO-31 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "145",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SN12C Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "155",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the rad50 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "157",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the mec2-1 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "161",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "165",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "167",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the bub3 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "175",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Active",
+          "",
+          "",
+          "",
+          "NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "55",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SNB-75 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "59",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the U251 Central Nervous System cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "3",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "5",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H322M Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "7",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "9",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "13",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "15",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "19",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "21",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "23",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "25",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "29",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "31",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "33",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "35",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "37",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Melanoma cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "115",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the SR Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "119",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "121",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the K-562 Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "123",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "125",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Leukemia cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "129",
+          "1",
+          "1",
+          "",
+          "564434",
+          "5250",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI human tumor cell line growth inhibition assay. Data for the A498 Renal cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "376",
+          "1",
+          "2",
+          "",
+          "10319733",
+          "5250",
+          "Inactive",
+          "4557729",
+          "",
+          "",
+          "HERG Channel Activity",
+          "Other",
+          "",
+          "",
+          "3757"
+        ]
+      }
+    ]
+  }
+}

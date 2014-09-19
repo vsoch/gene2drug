@@ -1,0 +1,7796 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "1204",
+          "1",
+          "2",
+          "",
+          "48421875",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "DSSTox (NCTRER) National Center for Toxicological Research Estrogen Receptor Binding Database",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "176788",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166156",
+          "",
+          "",
+          "In vivo inhibition of estrogen-stimulated uterine weight gain in immature rats on peroral administration",
+          "Other",
+          "9154963",
+          "",
+          "25149"
+        ]
+      },
+      {
+        "Cell": [
+          "176790",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "119600",
+          "",
+          "",
+          "In vivo inhibition of estrogen-stimulated uterine weight gain in immature rats on subcutaneous administration",
+          "Other",
+          "9154963",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "176788",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "119600",
+          "",
+          "",
+          "In vivo inhibition of estrogen-stimulated uterine weight gain in immature rats on peroral administration",
+          "Other",
+          "9154963",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "103267",
+          "4",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "0.00049",
+          "IC50",
+          "Inhibition of estrogen-induced proliferation in human MCF-7 breast cancer cells",
+          "Confirmatory",
+          "9154963",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "70645",
+          "8",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.007",
+          "IC50",
+          "Displacement of [3H]17-beta-estradiol from human Estrogen receptor beta",
+          "Confirmatory",
+          "10673099",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "70324",
+          "5",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.00047",
+          "IC50",
+          "Antagonist effect on transcriptional activation in MCF-7 cells expressing estrogen receptor alpha",
+          "Confirmatory",
+          "10673099",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "70321",
+          "8",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.006",
+          "IC50",
+          "Displacement of [3H]17-beta-estradiol from human Estrogen receptor alpha",
+          "Confirmatory",
+          "10673099",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "70189",
+          "8",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Inactive",
+          "544257",
+          "",
+          "",
+          "Agonist effect on transcriptional activation in MCF-7 cells expressing estrogen receptor alpha; Not active means no effect at < 1000 nM",
+          "Other",
+          "10673099",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "70164",
+          "8",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.00139",
+          "Ki",
+          "In vitro displacement of 0.5 nM [3H]17-beta-estradiol from human Estrogen receptor beta",
+          "Confirmatory",
+          "12672240",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "70002",
+          "8",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.00104",
+          "Ki",
+          "In vitro displacement of 0.5 nM [3H]17-beta-estradiol from human Estrogen receptor alpha",
+          "Confirmatory",
+          "12672240",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "69068",
+          "4",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Relative affinity for estrogen receptor of Human Breast cancer or normal uterine cytosol (3.3%ethanol) compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "69068",
+          "4",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Relative affinity for estrogen receptor of Human Breast cancer or normal uterine cytosol (3.3%ethanol) compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "69066",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Relative Binding Affinity for estrogen receptor in Human Breast cancer or normal uterine cytosol in 2.5%DMF compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "69066",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Relative Binding Affinity for estrogen receptor in Human Breast cancer or normal uterine cytosol in 2.5%DMF compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "69065",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Relative Binding Affinity for estrogen receptor in Human Breast cancer or normal uterine cytosol in 2.5%DMF compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "69065",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Relative Binding Affinity for estrogen receptor in Human Breast cancer or normal uterine cytosol in 2.5%DMF compared to estradiol",
+          "Other",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "68907",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.000668",
+          "Ki",
+          "Apparent inhibition constant for estrogen receptor in Human uterine cytosol in 2.5%DMF",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "68907",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.000668",
+          "Ki",
+          "Apparent inhibition constant for estrogen receptor in Human uterine cytosol in 2.5%DMF",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "68906",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.00763",
+          "Ki",
+          "Inhibition of estradiol binding to estrogen receptor in Human Breast cancer cytosol (3.3% ethanol)",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "68906",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.00763",
+          "Ki",
+          "Inhibition of estradiol binding to estrogen receptor in Human Breast cancer cytosol (3.3% ethanol)",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "68904",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.000755",
+          "Ki",
+          "Apparent inhibition constant for estrogen receptor in Human Breast cancer cytosol in 2.5%DMF",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "68904",
+          "7",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.000755",
+          "Ki",
+          "Apparent inhibition constant for estrogen receptor in Human Breast cancer cytosol in 2.5%DMF",
+          "Confirmatory",
+          "9216828",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "176790",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166156",
+          "",
+          "",
+          "In vivo inhibition of estrogen-stimulated uterine weight gain in immature rats on subcutaneous administration",
+          "Other",
+          "9154963",
+          "",
+          "25149"
+        ]
+      },
+      {
+        "Cell": [
+          "248712",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.004",
+          "IC50",
+          "Inhibition of 10e-9 M E2 stimulated MCF-7 breast cancer cell proliferation",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "249001",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.005",
+          "IC50",
+          "Inhibition of 10e-9 M E2 stimulated transcriptional activation in ER+MCF-7/2a breast cancer cells",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "249001",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.005",
+          "IC50",
+          "Inhibition of 10e-9 M E2 stimulated transcriptional activation in ER+MCF-7/2a breast cancer cells",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "269780",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Displacement of [3H]estradiol from human recombinant ERalpha relative to estradiol",
+          "Other",
+          "16709454",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "269781",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 10 mg/kg, sc",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269782",
+          "5",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 10 mg/kg, po",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269783",
+          "5",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 50 mg/kg, po",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269784",
+          "5",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 30 mg/kg, po",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269785",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Agonist activity assessed as increase in uterine weight in ovariectomized mouse at 10 mg/kg, sc",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269786",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in duodenally dosed Sprague-Dawley rat portal vein at 10 mg/kg",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269787",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in duodenally dosed Sprague-Dawley rat peripheral blood at 10 mg/kg",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269788",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in Sprague-Dawley rat at 10 mg/kg, iv",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269789",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Total clearance in Sprague-Dawley rat at 10 mg/kg, iv",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269790",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in Sprague-Dawley rat at 20 mg/kg, po",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269791",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Bioavailability in Sprague-Dawley rat",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "269792",
+          "5",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 3 mg/kg, po",
+          "Other",
+          "16709454",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271228",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Displacement of [3H]estradiol from recombinant ERalpha relative to estradiol",
+          "Other",
+          "16806917",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "271229",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist effect on estrogen activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 1 mg/kg, po",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271230",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist effect on estrogen activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 3 mg/kg, po",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271231",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antagonist effect on estrogen activity assessed as inhibition of estrogen-stimulated uterine weight gain in ovariectomized mouse at 10 mg/kg, po",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271234",
+          "6",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in Sprague-Dawley rat at 10 mg/kg, iv",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271235",
+          "5",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Total clearance in Sprague-Dawley rat at 10 mg/kg, iv",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271236",
+          "6",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "AUC in Sprague-Dawley rat at 20 mg/kg, po",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "271237",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Bioavailability in Sprague-Dawley rat",
+          "Other",
+          "16806917",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "287687",
+          "3",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Activity at ER assessed as suppression of estrogen response element-driven gene transactivation in MVLN cells after 24 hrs by luciferase reporter gene assay",
+          "Other",
+          "17275315",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "287690",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Inhibition of increase in proliferation of estrogen receptor expressing MCF7 cells at 10 uM after 3 days",
+          "Other",
+          "17275315",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "297564",
+          "9",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.0049",
+          "IC50",
+          "Binding affinity to human ERalpha",
+          "Confirmatory",
+          "17696335",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "297565",
+          "9",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.0441",
+          "IC50",
+          "Binding affinity to human ERbeta",
+          "Confirmatory",
+          "17696335",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "304029",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of DNA synthesis in human MLS cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "304030",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of DNA synthesis in human 320DM cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "183161",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "119600",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 0.1 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "183161",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166156",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 0.1 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "25149"
+        ]
+      },
+      {
+        "Cell": [
+          "183162",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "119600",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 1.0 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "183162",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166156",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 1.0 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "25149"
+        ]
+      },
+      {
+        "Cell": [
+          "183163",
+          "4",
+          "6",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "119600",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 10.0 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "183163",
+          "4",
+          "6",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166156",
+          "",
+          "",
+          "Antagonist effect as ability to suppress uterine stimulatory EE2 effect in immature female rats at 10.0 mg/kg dose",
+          "Other",
+          "14643309",
+          "",
+          "25149"
+        ]
+      },
+      {
+        "Cell": [
+          "232814",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antagonist effect on transcriptional activation by human ER alpha and ER beta on vitellogenin A2 ERE",
+          "Other",
+          "12672240",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "232814",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "",
+          "",
+          "Antagonist effect on transcriptional activation by human ER alpha and ER beta on vitellogenin A2 ERE",
+          "Other",
+          "12672240",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "239838",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "55584164",
+          "",
+          "",
+          "Relative binding affinity for Estrogen receptor of Calf uterine cytosol",
+          "Other",
+          "15324884",
+          "",
+          "407238"
+        ]
+      },
+      {
+        "Cell": [
+          "239838",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "13124247",
+          "",
+          "",
+          "Relative binding affinity for Estrogen receptor of Calf uterine cytosol",
+          "Other",
+          "15324884",
+          "",
+          "281146"
+        ]
+      },
+      {
+        "Cell": [
+          "242498",
+          "8",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.0084",
+          "IC50",
+          "Inhibition of human estrogen receptor 2 using tritiated estradiol incubated for 3 hr",
+          "Confirmatory",
+          "15993065",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "243059",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Ratio of inhibitory activity against human estrogen receptors 2 and 1",
+          "Other",
+          "15993065",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "243059",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Ratio of inhibitory activity against human estrogen receptors 2 and 1",
+          "Other",
+          "15993065",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "245769",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 96 hr at 5 uM",
+          "Other",
+          "15324884",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "245769",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 96 hr at 5 uM",
+          "Other",
+          "15324884",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "245770",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 96 hr at 10 uM",
+          "Other",
+          "15324884",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "245770",
+          "3",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 96 hr at 10 uM",
+          "Other",
+          "15324884",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "248483",
+          "4",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "0.00021",
+          "IC50",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 200 hr",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "248483",
+          "4",
+          "9",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.00021",
+          "IC50",
+          "Inhibition of ER-MDA-MB 231 breast cancer cell proliferation over 200 hr",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "248712",
+          "6",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "0.004",
+          "IC50",
+          "Inhibition of 10e-9 M E2 stimulated MCF-7 breast cancer cell proliferation",
+          "Confirmatory",
+          "15324884",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "2668",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4826730",
+          "",
+          "Potency",
+          "Cytometry Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF cells",
+          "Confirmatory",
+          "",
+          "",
+          "2475"
+        ]
+      },
+      {
+        "Cell": [
+          "2667",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4826730",
+          "",
+          "Potency",
+          "High Content Imaging Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF Cells",
+          "Confirmatory",
+          "",
+          "",
+          "2475"
+        ]
+      },
+      {
+        "Cell": [
+          "2666",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4826730",
+          "",
+          "Potency",
+          "High Content Imaging Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF (Tsc2-/-, p53-/-) Cells",
+          "Confirmatory",
+          "",
+          "",
+          "2475"
+        ]
+      },
+      {
+        "Cell": [
+          "2660",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4826730",
+          "",
+          "Potency",
+          "Cytometric Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF (Tsc2-/-, p53-/-) Cells",
+          "Confirmatory",
+          "",
+          "",
+          "2475"
+        ]
+      },
+      {
+        "Cell": [
+          "304031",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of 30 nM estradiol induced stimulation of DNA synthesis in human MLS cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "304032",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of 30 nM estradiol induced stimulation of DNA synthesis in human 320DM cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "304033",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of 300 nM estradiol induced stimulation of DNA synthesis in human MLS cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "304034",
+          "3",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of 300 nM estradiol induced stimulation of DNA synthesis in human 320DM cells assessed as ratio of treated to untreated control at 1.1 uM after 48 hrs by [3H]thymidine incorporation assay",
+          "Other",
+          "17990847",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "306821",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Agonist activity at human ERalpha in T47D cells assessed as enhancement of AP1-driven transactivation at 5 uM by luciferase reporter assay relative to DMSO",
+          "Other",
+          "17337183",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "306822",
+          "3",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "90110048",
+          "",
+          "",
+          "Antagonist activity at human PR in T47D cells assessed as MMTV-driven transactivation at 5 uM by luciferase reporter assay relative to progesterone",
+          "Other",
+          "17337183",
+          "",
+          "5241"
+        ]
+      },
+      {
+        "Cell": [
+          "368180",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antiestrogenic activity at human recombinant estrogen receptor alpha assessed as inhibition of recruitment of LxxLL-containing coactivators after 30 mins by ELISA in presence of estradiol",
+          "Other",
+          "19133777",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "368181",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antiestrogenic activity at human recombinant estrogen receptor alpha assessed as inhibition of recruitment of LxxLL-containing coactivators after 30 mins by ELISA in absence of estradiol",
+          "Other",
+          "19133777",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "368182",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Binding affinity to estrogen receptor alpha in human MCF7 cells assessed as inhibition of [3H]E2 accumulation after 45 mins by whole cell competition binding assay",
+          "Other",
+          "19133777",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "368183",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Antiproliferative activity against estradiol-stimulated human MCF7 cells after 3 days at 10 nM by crystal violet staining",
+          "Other",
+          "19133777",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "368184",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Antiproliferative activity against human MCF7 cells after 3 days at 10 nM by crystal violet staining",
+          "Other",
+          "19133777",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "368185",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of estrogen receptor alpha expression in human MCF7 cells after 24 hrs by Western blot analysis",
+          "Other",
+          "19133777",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "368186",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of estrogen receptor alpha expression in human MCF7 cells at 100 nM after 24 hrs by immunofluorescence staining",
+          "Other",
+          "19133777",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "368326",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Displacement of [3H]estradiol from human recombinant estrogen receptor alpha by radiometric assay relative to estradiol",
+          "Other",
+          "19133777",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "419507",
+          "6",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Volume of distribution at steady state in human dosed 1 hr iv infusion",
+          "Other",
+          "19603833",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "427278",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Growth inhibition of human LNCAP cells at 1 uM after 4 days by MTT assay",
+          "Other",
+          "19467602",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "427279",
+          "4",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "0.018",
+          "IC50",
+          "Cytotoxicity against human LNCAP cells after 4 days by MTT assay",
+          "Confirmatory",
+          "19467602",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "427280",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Growth inhibition of human MCF7 cells at 1 uM after 4 days by MTT assay",
+          "Other",
+          "19467602",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "427281",
+          "4",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "0.018",
+          "IC50",
+          "Cytotoxicity against human MCF7 cells after 4 days by MTT assay",
+          "Confirmatory",
+          "19467602",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "436099",
+          "3",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells at 1 uM by MTT assay relative to control in presence of 17-beta-estradiol",
+          "Other",
+          "18986200",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "436102",
+          "3",
+          "5",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Cytotoxicity against human MCF7 cells at 1 uM by MTT assay relative to control in the absence of 17-beta-estradiol",
+          "Other",
+          "18986200",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "493164",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "7242179",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Cell Surface uPA Generation: Validation Assay",
+          "Confirmatory",
+          "",
+          "",
+          "18793"
+        ]
+      },
+      {
+        "Cell": [
+          "493164",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "257471003",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Cell Surface uPA Generation: Validation Assay",
+          "Confirmatory",
+          "",
+          "",
+          "18815"
+        ]
+      },
+      {
+        "Cell": [
+          "504327",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "153791535",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of GCN5L2",
+          "Confirmatory",
+          "",
+          "",
+          "2648"
+        ]
+      },
+      {
+        "Cell": [
+          "504332",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "168985070",
+          "0.6702",
+          "Potency",
+          "qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504536",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "5453898",
+          "",
+          "Potency",
+          "qHTS Validation Assay to Find Inhibitors of Pin1",
+          "Confirmatory",
+          "",
+          "",
+          "5300"
+        ]
+      },
+      {
+        "Cell": [
+          "504547",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "115503961",
+          "",
+          "Potency",
+          "qHTS Validation Assay to Find Inhibitors of Phosphoglycerate Kinase",
+          "Confirmatory",
+          "",
+          "",
+          "4357161"
+        ]
+      },
+      {
+        "Cell": [
+          "504548",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "157877932",
+          "",
+          "Potency",
+          "qHTS Validation Assay to Find Inhibitors of Phosphoglycerate Mutase",
+          "Confirmatory",
+          "",
+          "",
+          "5655980"
+        ]
+      },
+      {
+        "Cell": [
+          "504810",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "118341367",
+          "",
+          "",
+          "Antagonists of the Thyroid Stimulating Hormone Receptor: HTS campaign",
+          "Screening",
+          "20427476",
+          "",
+          "7253"
+        ]
+      },
+      {
+        "Cell": [
+          "504812",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "118341367",
+          "",
+          "",
+          "Inverse Agonists of the Thyroid Stimulating Hormone Receptor: HTS campaign",
+          "Screening",
+          "20427476",
+          "",
+          "7253"
+        ]
+      },
+      {
+        "Cell": [
+          "504836",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "168984549",
+          "",
+          "Potency",
+          "Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in human glioma: Validation",
+          "Confirmatory",
+          "11836247",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "504845",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "86301163",
+          "",
+          "Potency",
+          "Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "5999"
+        ]
+      },
+      {
+        "Cell": [
+          "504847",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "63054845",
+          "",
+          "Potency",
+          "Inhibitors of the vitamin D receptor (VDR): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "504865",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "118600387",
+          "",
+          "Potency",
+          "Inhibitors of USP1/UAF1: Pilot qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "7398"
+        ]
+      },
+      {
+        "Cell": [
+          "540256",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Active",
+          "",
+          "3.2629",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540276",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "420597",
+          "10.3183",
+          "Potency",
+          "qHTS for inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588349",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of ATXN expression: Validation of Cytotoxic Assay",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "588378",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "171543895",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of ATXN expression: Validation",
+          "Confirmatory",
+          "",
+          "",
+          "6311"
+        ]
+      },
+      {
+        "Cell": [
+          "588453",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "8659577",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "58819"
+        ]
+      },
+      {
+        "Cell": [
+          "588456",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "8659577",
+          "13.3714",
+          "Potency",
+          "qHTS Assay for Substrates of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1): qHTS",
+          "Confirmatory",
+          "",
+          "",
+          "58819"
+        ]
+      },
+      {
+        "Cell": [
+          "588579",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "7705344",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Polymerase Kappa",
+          "Confirmatory",
+          "",
+          "",
+          "51426"
+        ]
+      },
+      {
+        "Cell": [
+          "588795",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4758356",
+          "",
+          "Potency",
+          "qHTS Assay for the Inhibitors of Human Flap endonuclease 1 (FEN1).",
+          "Confirmatory",
+          "",
+          "",
+          "2237"
+        ]
+      },
+      {
+        "Cell": [
+          "602332",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "168984549",
+          "",
+          "Potency",
+          "qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624146",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "71051501",
+          "31.6228",
+          "Potency",
+          "qHTS for Inhibitors of Glutaminase (GLS): LOPAC Validation",
+          "Confirmatory",
+          "",
+          "",
+          "2744"
+        ]
+      },
+      {
+        "Cell": [
+          "624147",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "62359610",
+          "",
+          "Potency",
+          "qHTS of Trypanosoma Brucei Inhibitors: LOPAC Validation",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624148",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "1724069",
+          "",
+          "Potency",
+          "qHTS of GLP-1 Receptor Agonists: LOPAC Validation",
+          "Confirmatory",
+          "",
+          "",
+          "2740"
+        ]
+      },
+      {
+        "Cell": [
+          "624149",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "693842",
+          "",
+          "Potency",
+          "qHTS of Nrf2 Activators: LOPAC Validation",
+          "Confirmatory",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "624455",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "299681",
+          "",
+          "Potency",
+          "HTS Assay for Allosteric Antagonists of the Human D2 Dopamine Receptor: Hit Validation in HTRF",
+          "Confirmatory",
+          "",
+          "",
+          "1812"
+        ]
+      },
+      {
+        "Cell": [
+          "493164",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "6679377",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of Cell Surface uPA Generation: Validation Assay",
+          "Confirmatory",
+          "",
+          "",
+          "18792"
+        ]
+      },
+      {
+        "Cell": [
+          "493153",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "",
+          "18.3564",
+          "Potency",
+          "Nrf2 qHTS screen for inhibitors: Validation",
+          "Confirmatory",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "493153",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "224028257",
+          "18.3564",
+          "Potency",
+          "Nrf2 qHTS screen for inhibitors: Validation",
+          "Confirmatory",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "493107",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "116283940",
+          "7.3048",
+          "Potency",
+          "Validation screen for small molecules that inhibit ELG1-dependent DNA repair in human embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1",
+          "Confirmatory",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "493106",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "116283940",
+          "",
+          "Potency",
+          "Validation screen for small molecules that induce genotoxicity in human embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1",
+          "Confirmatory",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "488983",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503383",
+          "",
+          "Potency",
+          "HTS Assay for Allosteric Agonists of the Human D1 Dopamine Receptor: Primary Screen for Antagonists",
+          "Confirmatory",
+          "",
+          "",
+          "1812"
+        ]
+      },
+      {
+        "Cell": [
+          "488982",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503383",
+          "",
+          "Potency",
+          "HTS Assay for Allosteric Agonists of the Human D1 Dopamine Receptor: Primary Screen for Potentiators",
+          "Confirmatory",
+          "",
+          "",
+          "1812"
+        ]
+      },
+      {
+        "Cell": [
+          "488981",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503383",
+          "",
+          "Potency",
+          "HTS Assay for Allosteric Agonists of the Human D1 Dopamine Receptor: Primary Screen for Agonists",
+          "Confirmatory",
+          "",
+          "",
+          "1812"
+        ]
+      },
+      {
+        "Cell": [
+          "488978",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "45359078",
+          "",
+          "Potency",
+          "High-Throughput Screening for Modulators of Cytosolic Chaperonin Activity: MmCpn Primary Screen",
+          "Confirmatory",
+          "",
+          "",
+          "2761905"
+        ]
+      },
+      {
+        "Cell": [
+          "488953",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "187960037",
+          "",
+          "Potency",
+          "qHTS Validation Assay for Inhibitors of HP1-beta Chromodomain Interactions with Methylated Histone Tails",
+          "Confirmatory",
+          "",
+          "",
+          "10951"
+        ]
+      },
+      {
+        "Cell": [
+          "488949",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "41055989",
+          "",
+          "Potency",
+          "qHTS Validation Assay for Inhibitors for MPP8 Chromodomain Interactions with Methylated Histone Tails",
+          "Confirmatory",
+          "",
+          "",
+          "54737"
+        ]
+      },
+      {
+        "Cell": [
+          "488837",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "26667227",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of the Phosphatase Activity of Eya2",
+          "Confirmatory",
+          "",
+          "",
+          "2139"
+        ]
+      },
+      {
+        "Cell": [
+          "488816",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4758356",
+          "",
+          "Potency",
+          "qHTS Validation Assay for the Inhibitors of Human Flap endonuclease 1 (FEN1)",
+          "Confirmatory",
+          "",
+          "",
+          "2237"
+        ]
+      },
+      {
+        "Cell": [
+          "488773",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "8659577",
+          "",
+          "Potency",
+          "qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1)",
+          "Confirmatory",
+          "",
+          "",
+          "58819"
+        ]
+      },
+      {
+        "Cell": [
+          "488772",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "8659577",
+          "13.3714",
+          "Potency",
+          "qHTS Assay for Substrates of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1)",
+          "Confirmatory",
+          "",
+          "",
+          "58819"
+        ]
+      },
+      {
+        "Cell": [
+          "485368",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "72386991",
+          "",
+          "Potency",
+          "qHTS Validation Assay to Find Inhibitors of T. brucei phosphofructokinase",
+          "Confirmatory",
+          "",
+          "",
+          "3656265"
+        ]
+      },
+      {
+        "Cell": [
+          "485366",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4501969",
+          "",
+          "Potency",
+          "qHTS validation assay of beta-arrestin-biased ligands of beta2-adrenergic receptor",
+          "Confirmatory",
+          "",
+          "",
+          "154"
+        ]
+      },
+      {
+        "Cell": [
+          "485345",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "",
+          "",
+          "Potency",
+          "qHTS Validation Assay to Find Inhibitors of Chronic Active B-Cell Receptor Signaling",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485342",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "5454140",
+          "",
+          "Potency",
+          "qHTS Validation Assay for Iinhibitors of HIV-1 Budding by Blocking the Interaction of PTAP/TSG101",
+          "Confirmatory",
+          "",
+          "",
+          "7251"
+        ]
+      },
+      {
+        "Cell": [
+          "485313",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "255652944",
+          "",
+          "Potency",
+          "qHTS Assay for NPC1 Promoter Activators",
+          "Confirmatory",
+          "",
+          "",
+          "4864"
+        ]
+      },
+      {
+        "Cell": [
+          "485298",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency",
+          "qHTS Assay for Small Molecule Inhibitors of Mitochondrial Division or Activators of Mitochondrial Fusion",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485297",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4759012",
+          "",
+          "Potency",
+          "qHTS Assay for Rab9 Promoter Activators",
+          "Confirmatory",
+          "",
+          "",
+          "9367"
+        ]
+      },
+      {
+        "Cell": [
+          "485295",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "30027657",
+          "",
+          "Potency",
+          "qHTS Validation Assay for the Inhibitors of DNA Replication in Gram-Positive Bacteria",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "463106",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "188528692",
+          "",
+          "Potency",
+          "qHTS Validation Assay for Inhibitors of Ubiquitin-specific Protease USP2a Using CHOP2 as the Reporter",
+          "Confirmatory",
+          "",
+          "",
+          "9099"
+        ]
+      },
+      {
+        "Cell": [
+          "624349",
+          "1",
+          "1",
+          "",
+          "92309278",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "",
+          "A screen for compounds that inhibit liver stage malaria",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597270",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "0.01",
+          "GI50",
+          "Antiproliferative activity against human MCF7 cells expressing estrogen receptor incubated with 0.003 nM of estradiol and 0.01 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of 5% fetal bovine serum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597271",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "794.328",
+          "GI50",
+          "Antiproliferative activity against human MCF7 cells expressing estrogen receptor incubated with 100 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597272",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human MCF12A cells incubated with 0.003 nM of estradiol and 0.01 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of 5% fetal bovine serum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597273",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human MCF12A cells incubated with 0.06 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597274",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human MCF12A cells incubated with 100 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597275",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against androgen receptor-deficient human PC3 cells incubated with 0.6 nM of estradiol and 0.7 nM of testosterone after 48 hrs by sulforhodamine B assay",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597276",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against androgen receptor-deficient human DU145 cells incubated with 0.6 nM of estradiol and 0.7 nM of testosterone after 48 hrs by sulforhodamine B assay",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597277",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "398.107",
+          "GI50",
+          "Antiproliferative activity against human LNCAP cells expressing androgen receptor incubated with 0.6 nM of estradiol and 0.7 nM of testosterone after 48 hrs by sulforhodamine B assay",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625279",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for bilirubinemia",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625280",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholecystitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625281",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholelithiasis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625282",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cirrhosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625283",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for elevated liver function tests",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625284",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic failure",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625285",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic necrosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625286",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625287",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatomegaly",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625288",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for jaundice",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625289",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver disease",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625290",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver fatty",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625291",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver function tests abnormal",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "468380",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antagonist activity at ERalpha in human MCF7:D5L cells assessed as inhibition of ERE-dependent luciferase expression at 1 uM",
+          "Other",
+          "19845386",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "468382",
+          "3",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "",
+          "",
+          "Antagonist activity at ERbeta in HEK293 cells assessed as inhibition of ERE-dependent luciferase expression at 1 uM",
+          "Other",
+          "19845386",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "468388",
+          "3",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antagonist activity at estrogen receptor in human Ishikawa cells assessed as inhibition of ERE-dependent alkaline phosphatase levels at 1 uM",
+          "Other",
+          "19845386",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "468984",
+          "4",
+          "6",
+          "",
+          "103447197",
+          "104741",
+          "Inconclusive",
+          "8134404",
+          "",
+          "",
+          "Inhibition of human 17beta-HSD7 expressed in HEK293 cells assessed as inhibition of reduction of [14C]estrone into [14C]estradiol at 0.3 uM after 7 hrs",
+          "Other",
+          "19772289",
+          "",
+          "51478"
+        ]
+      },
+      {
+        "Cell": [
+          "468985",
+          "3",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "8134404",
+          "",
+          "",
+          "Inhibition of human 17beta-HSD7 expressed in HEK293 cells assessed as inhibition of reduction of [14C]estrone into [14C]estradiol at 3 uM after 7 hrs",
+          "Other",
+          "19772289",
+          "",
+          "51478"
+        ]
+      },
+      {
+        "Cell": [
+          "469727",
+          "6",
+          "1",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "0.004",
+          "IC50",
+          "Antagonist activity at estrogen receptor alpha ligand binding domain expressed in african green monkey COS7 cells co-transfected with Gal4-LBD by luciferase reporter gene assay",
+          "Confirmatory",
+          "19863083",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "469732",
+          "6",
+          "1",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "0.0038",
+          "IC50",
+          "Antagonist activity at estrogen receptor beta ligand binding domain expressed in african green monkey COS7 cells co-transfected with Gal4-LBD by luciferase reporter gene assay",
+          "Confirmatory",
+          "19863083",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "473420",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of ERalpha expression in human MCF7 cell cytoplasmic fraction at 1 uM after 16 hrs by Western blotting",
+          "Other",
+          "20334372",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "473421",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of ERalpha expression in human MCF7 cell nuclear fraction at 1 uM after 16 hrs by Western blotting",
+          "Other",
+          "20334372",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "473606",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of ERalpha expression in human MCF7 cell matrix fraction at 1 uM after 16 hrs by Western blotting",
+          "Other",
+          "20334372",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "473607",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of ERalpha expression in human MCF7 cell insoluble fraction at 1 uM after 16 hrs by Western blotting",
+          "Other",
+          "20334372",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "473608",
+          "3",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "",
+          "",
+          "",
+          "Down regulation of ERalpha expression in human MCF7 cell whole cell extract at 1 uM after 16 hrs by Western blotting",
+          "Other",
+          "20334372",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "485979",
+          "3",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "116121",
+          "",
+          "",
+          "Inhibition of CETP in rabbit serum at 10 uM after 1 hr by fluorescent cholesteryl esters transfer assay",
+          "Other",
+          "20116902",
+          "",
+          "100327267"
+        ]
+      },
+      {
+        "Cell": [
+          "497605",
+          "2",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Antagonist activity at human ERalpha expressed in human HeLa cells coexpressing ERE-E1b-Luc assessed as inhibition of estradiol-induced transcriptional activation at 1 uM after 48 hrs by luciferase reporter gene assay",
+          "Other",
+          "20621492",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "499833",
+          "2",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiestrogenic activity in human MCF7 cells assessed as decrease of ER-mediated PR expression at 100 uM by RT-PCR analysis in presence of estradiol",
+          "Other",
+          "20669983",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "499834",
+          "2",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiestrogenic activity in human MCF7 cells xenografted in ovariectomized Nu/Nu mouse assessed as decrease of estradiol-induced tumor volume at 50 mg/kg, daily once for 21 days",
+          "Other",
+          "20669983",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "503305",
+          "2",
+          "4",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Antiproliferative activity against human PC3 cells at 500 nM after 120 hrs by MTT assay relative to DMSO",
+          "Other",
+          "16680159",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "549847",
+          "2",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Selectivity ratio, ratio of RBA for human recombinant ERbeta to RBA for human recombinant ERalpha",
+          "Other",
+          "21129978",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "549848",
+          "2",
+          "7",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6166154",
+          "",
+          "",
+          "Displacement of fluorescent estrogen ES2 from human recombinant ERbeta by fluorescence polarization assay relative to estradiol",
+          "Other",
+          "21129978",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "549849",
+          "2",
+          "8",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "544257",
+          "",
+          "",
+          "Displacement of fluorescent estrogen ES2 from human recombinant ERalpha by fluorescence polarization assay relative to estradiol",
+          "Other",
+          "21129978",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "597266",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human NCI-ADR-RES cells incubated with 0.003 nM of estradiol and 0.01 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of 5% fetal bovine serum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597267",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "158.489",
+          "GI50",
+          "Antiproliferative activity against human MCF7 cells expressing estrogen receptor incubated with 0.06 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597268",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human NCI-ADR-RES cells incubated with 100 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "597269",
+          "3",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "100",
+          "GI50",
+          "Antiproliferative activity against estrogen receptor-deficient human NCI-ADR-RES cells incubated with 0.06 nM of estradiol and 0.07 nM of testosterone after 48 hrs by sulforhodamine B assay in presence of fetal bovine serum and NuSerum",
+          "Confirmatory",
+          "21513275",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625292",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) combined score",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720717",
+          "1",
+          "2",
+          "",
+          "92309278",
+          "104741",
+          "Inactive",
+          "1718329",
+          "",
+          "",
+          "Chemical Probes of Kaposi's Sarcoma Herpes Virus Latent Infection",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720641",
+          "1",
+          "1",
+          "",
+          "92309278",
+          "104741",
+          "Inactive",
+          "15923709",
+          "",
+          "",
+          "A screen for compounds that inhibit the activity of LtaS in Staphylococcus aureus",
+          "Other",
+          "",
+          "",
+          "1120692"
+        ]
+      },
+      {
+        "Cell": [
+          "651828",
+          "1",
+          "1",
+          "",
+          "92309278",
+          "104741",
+          "Inactive",
+          "127925",
+          "",
+          "",
+          "A screen for compounds that inhibit nucleocapsid/RNA interactions in Rift Valley Fever Virus",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "755348",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "67476665",
+          "0.006",
+          "IC50",
+          "Inhibition of human recombinant soluble epoxide hydrolase using (cyano(6-methoxy-naphthelen-2-yl)methyl trans-[(3-phenyl-oxiran-2-yl)methyl] carbonate) as substrate preincubated for 5 mins prior to substrate addition by fluorescence assay",
+          "Confirmatory",
+          "23684894",
+          "",
+          "2053"
+        ]
+      },
+      {
+        "Cell": [
+          "755454",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "46577705",
+          "0.79",
+          "IC50",
+          "Antagonist activity at human GTS-tagged FXR after 20 mins by TR-FRET assay",
+          "Confirmatory",
+          "23688559",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "755455",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "46577705",
+          "",
+          "",
+          "Antagonist activity at human GTS-tagged FXR at 15 uM after 20 mins by TR-FRET assay",
+          "Other",
+          "23688559",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "651828",
+          "1",
+          "1",
+          "",
+          "121360934",
+          "104741",
+          "Inactive",
+          "127925",
+          "",
+          "",
+          "A screen for compounds that inhibit nucleocapsid/RNA interactions in Rift Valley Fever Virus",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "755347",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "67476665",
+          "",
+          "",
+          "Inhibition of human recombinant soluble epoxide hydrolase",
+          "Other",
+          "23684894",
+          "",
+          "2053"
+        ]
+      },
+      {
+        "Cell": [
+          "755346",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "67476665",
+          "",
+          "",
+          "Reversible inhibition of human recombinant soluble epoxide hydrolase assessed as residual enzyme activity at 10 uM after 15 mins relative to control",
+          "Other",
+          "23684894",
+          "",
+          "2053"
+        ]
+      },
+      {
+        "Cell": [
+          "755345",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "67476665",
+          "0.026",
+          "Ki",
+          "Competitive inhibition of human recombinant soluble epoxide hydrolase using [3H]-tDPPO as substrate",
+          "Confirmatory",
+          "23684894",
+          "",
+          "2053"
+        ]
+      },
+      {
+        "Cell": [
+          "742471",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6166154",
+          "",
+          "",
+          "Estrogen receptor antagonist",
+          "Other",
+          "",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "742471",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "544257",
+          "",
+          "",
+          "Estrogen receptor antagonist",
+          "Other",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "736233",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Inactive",
+          "6166154",
+          "",
+          "",
+          "Inverse agonist activity at estrogen receptor beta (unknown origin) expressed in human HepG2 cells coexpressing estrogen response element at 10 uM after 24 hrs by luciferase reporter gene assay relative to estradiol",
+          "Other",
+          "23586645",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "728186",
+          "2",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "215274146",
+          "0.002",
+          "IC50",
+          "Antagonist activity at ERalpha receptor in human MCF7 cells assessed as inhibition of cell growth after 6 days by crystal violet staining method",
+          "Confirmatory",
+          "23448346",
+          "",
+          "2101"
+        ]
+      },
+      {
+        "Cell": [
+          "728175",
+          "1",
+          "3",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "215274146",
+          "",
+          "",
+          "Antagonist activity at LBD of ERalpha receptor in human HeLa cells assessed as blockade of SRC-1 binding to receptor at 100 nM after 20 to 24 hrs by luciferase reporter gene assay",
+          "Other",
+          "23448346",
+          "",
+          "2101"
+        ]
+      },
+      {
+        "Cell": [
+          "650636",
+          "6",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "119600",
+          "0.00589",
+          "IC50",
+          "Displacement of [3H]estradiol from rat uterine cytosolic estrogen receptor",
+          "Confirmatory",
+          "22377671",
+          "",
+          "24890"
+        ]
+      },
+      {
+        "Cell": [
+          "755445",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Active",
+          "6093860",
+          "1.95",
+          "EC50",
+          "Agonist activity at PXR (unknown origin) expressed in human HepG2 cells assessed as induction of CYP3A4 transactivation after 16 hrs by luciferase reporter gene assay",
+          "Confirmatory",
+          "23688559",
+          "",
+          "8856"
+        ]
+      },
+      {
+        "Cell": [
+          "755448",
+          "1",
+          "2",
+          "",
+          "103447197",
+          "104741",
+          "Unspecified",
+          "6093860",
+          "",
+          "",
+          "Agonist activity at PXR (unknown origin) expressed in human HepG2 cells assessed as induction of CYP3A4 transactivation at 20 uM after 16 hrs by luciferase reporter gene assay",
+          "Other",
+          "23688559",
+          "",
+          "8856"
+        ]
+      },
+      {
+        "Cell": [
+          "743244",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inconclusive",
+          "",
+          "0.5623",
+          "Potency",
+          "qHTS Assay for Identifying Gametocytocidal Compounds",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743207",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "221625433",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: HTRF assay",
+          "Confirmatory",
+          "",
+          "",
+          "2646"
+        ]
+      },
+      {
+        "Cell": [
+          "743207",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503951",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: HTRF assay",
+          "Confirmatory",
+          "",
+          "",
+          "2645"
+        ]
+      },
+      {
+        "Cell": [
+          "743206",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503951",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: ADP-Glo assay",
+          "Confirmatory",
+          "",
+          "",
+          "2645"
+        ]
+      },
+      {
+        "Cell": [
+          "743206",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "221625433",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: ADP-Glo assay",
+          "Confirmatory",
+          "",
+          "",
+          "2646"
+        ]
+      },
+      {
+        "Cell": [
+          "743205",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "4503951",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: Diaphorase-coupled assay",
+          "Confirmatory",
+          "",
+          "",
+          "2645"
+        ]
+      },
+      {
+        "Cell": [
+          "743205",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "221625433",
+          "",
+          "Potency",
+          "qHTS assay for inhibitors of recombinant human GCK-GKRP interaction: Diaphorase-coupled assay",
+          "Confirmatory",
+          "",
+          "",
+          "2646"
+        ]
+      },
+      {
+        "Cell": [
+          "720573",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "3063388",
+          "",
+          "Potency",
+          "qHTS for Activators of Parkin Expression:  LOPAC Validation Assay (FLuc Reporter)",
+          "Confirmatory",
+          "",
+          "",
+          "5071"
+        ]
+      },
+      {
+        "Cell": [
+          "720572",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "3063388",
+          "",
+          "Potency",
+          "qHTS for Activators of Parkin Expression:  LOPAC Validation Assay (NLuc Reporter)",
+          "Confirmatory",
+          "",
+          "",
+          "5071"
+        ]
+      },
+      {
+        "Cell": [
+          "720559",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "112927",
+          "",
+          "Potency",
+          "qHTS for compounds that reverse cellular toxicity of Amyloid beta (A-beta) peptide in yeast: LOPAC Validation Assay",
+          "Confirmatory",
+          "",
+          "",
+          "351"
+        ]
+      },
+      {
+        "Cell": [
+          "720538",
+          "1",
+          "2",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "220983390",
+          "4.7755",
+          "Potency",
+          "qHTS screen for enhancers of Arylsulfatase A (ASA1): LOPAC Validation Assay",
+          "Confirmatory",
+          "",
+          "",
+          "410"
+        ]
+      },
+      {
+        "Cell": [
+          "652106",
+          "1",
+          "1",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "586067",
+          "",
+          "Potency",
+          "qHTS of alpha-syn Inhibitors",
+          "Confirmatory",
+          "",
+          "",
+          "6622"
+        ]
+      },
+      {
+        "Cell": [
+          "651635",
+          "1",
+          "3",
+          "",
+          "90341164",
+          "104741",
+          "Inactive",
+          "171543895",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of ATXN expression",
+          "Confirmatory",
+          "",
+          "",
+          "6311"
+        ]
+      },
+      {
+        "Cell": [
+          "651631",
+          "4",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "269849759",
+          "23.7101",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "720686",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720687",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720691",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "311348376",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "720692",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "311348376",
+          "8.4852",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "720693",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720719",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "311348376",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "720725",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "311348376",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "743012",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "8.4127",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743014",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "11.8832",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743015",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "6.6824",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743033",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743035",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743036",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743040",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743041",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743042",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743053",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "124375976",
+          "10.6822",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743054",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "AR Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743063",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743064",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "",
+          "0.0084",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743065",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "399498506",
+          "0.0042",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "743066",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "399498506",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "651632",
+          "4",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "296439460",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5",
+          "Confirmatory",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "651633",
+          "4",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651634",
+          "4",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "652048",
+          "1",
+          "2",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "89191863",
+          "",
+          "",
+          "qHTS of D3 Dopamine Receptor Agonist: qHTS",
+          "Screening",
+          "",
+          "",
+          "1814"
+        ]
+      },
+      {
+        "Cell": [
+          "652051",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "89191863",
+          "",
+          "",
+          "qHTS of D3 Dopamine Receptor Potentiators: qHTS",
+          "Screening",
+          "",
+          "",
+          "1814"
+        ]
+      },
+      {
+        "Cell": [
+          "686978",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "79154014",
+          "5.3091",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "686979",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "79154014",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT",
+          "Confirmatory",
+          "",
+          "",
+          "55775"
+        ]
+      },
+      {
+        "Cell": [
+          "720516",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "296439460",
+          "",
+          "ATAD5 Potency (uM)",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5: Summary",
+          "Summary",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "720532",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "420597",
+          "",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Marburg Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720533",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "6.3096",
+          "Potency",
+          "qHTS for Inhibitors of binding or entry into cells for Lassa Virus",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720552",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "269849759",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "720634",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "",
+          "7.4978",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720635",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "2.6603",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720637",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "",
+          "3.22305",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary",
+          "Summary",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720674",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720675",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720678",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720679",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720680",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720681",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720682",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720683",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720684",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720685",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743067",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "399498506",
+          "0.00390482",
+          "TR Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "743069",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "348019627",
+          "0.6007",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743074",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743075",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "348019627",
+          "0.9521",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743077",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "348019627",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743078",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "348019627",
+          "0.111001",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743079",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "348019627",
+          "0.0007",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743080",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "348019627",
+          "0.0298",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743081",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743083",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "119597822",
+          "0.0596",
+          "Potency-Replicate_1",
+          "qHTS assay to identify aromatase inhibitors",
+          "Confirmatory",
+          "",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "743084",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify aromatase inhibitors - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743085",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "51095037",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "196"
+        ]
+      },
+      {
+        "Cell": [
+          "743086",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743091",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "348019627",
+          "0.0219584",
+          "ER Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743094",
+          "3",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743122",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "51095037",
+          "",
+          "AhR Potency (uM)",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "196"
+        ]
+      },
+      {
+        "Cell": [
+          "743139",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Active",
+          "119597822",
+          "",
+          "",
+          "qHTS assay to identify aromatase inhibitors: Summary",
+          "Summary",
+          "",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "743140",
+          "2",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743244",
+          "1",
+          "1",
+          "",
+          "144204490",
+          "104741",
+          "Inconclusive",
+          "",
+          "35.4813",
+          "Potency",
+          "qHTS Assay for Identifying Gametocytocidal Compounds",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720634",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "9.6787",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720725",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "311348376",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "743012",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "1.534",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720635",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "",
+          "2.7278",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720637",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "",
+          "3.06067",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary",
+          "Summary",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720674",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720675",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720678",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720679",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720680",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720681",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720682",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720683",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720684",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720685",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720686",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720687",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720691",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "311348376",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "720692",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "311348376",
+          "1.2294",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "720693",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720719",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "311348376",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "651631",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "269849759",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "651632",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "296439460",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5",
+          "Confirmatory",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "651633",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "651634",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "720516",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "296439460",
+          "",
+          "ATAD5 Potency (uM)",
+          "qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5: Summary",
+          "Summary",
+          "",
+          "",
+          "79915"
+        ]
+      },
+      {
+        "Cell": [
+          "720552",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "269849759",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule agonists of the p53 signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7157"
+        ]
+      },
+      {
+        "Cell": [
+          "743014",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743085",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "51095037",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "196"
+        ]
+      },
+      {
+        "Cell": [
+          "743086",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743091",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "348019627",
+          "0.00685199",
+          "ER Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743094",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "216409692",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743122",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "51095037",
+          "25.7523",
+          "AhR Potency (uM)",
+          "qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "196"
+        ]
+      },
+      {
+        "Cell": [
+          "743139",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "119597822",
+          "",
+          "",
+          "qHTS assay to identify aromatase inhibitors: Summary",
+          "Summary",
+          "",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "743140",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "216409692",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743191",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743194",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743199",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743202",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "20149576",
+          "48.5084",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "743203",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743209",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743015",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "6.852",
+          "Potency-Replicate_1",
+          "qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743033",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743035",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "124375976",
+          "6.1615",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743036",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743040",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743041",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743042",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+          "Confirmatory",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743053",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "124375976",
+          "8.7033",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743054",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "124375976",
+          "",
+          "AR Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743063",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "124375976",
+          "7.18374",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "367"
+        ]
+      },
+      {
+        "Cell": [
+          "743064",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "0.0015",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743065",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "399498506",
+          "0.0007",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "743066",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "399498506",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the thyroid receptor (TR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "743067",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "399498506",
+          "0.000827767",
+          "TR Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "24831"
+        ]
+      },
+      {
+        "Cell": [
+          "743069",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "348019627",
+          "3.4648",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743074",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743075",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "348019627",
+          "8.7033",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743077",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "348019627",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743078",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "348019627",
+          "0.0254889",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743079",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "348019627",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743080",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "348019627",
+          "0.0086",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "743081",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743083",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "119597822",
+          "0.0153",
+          "Potency-Replicate_1",
+          "qHTS assay to identify aromatase inhibitors",
+          "Confirmatory",
+          "",
+          "",
+          "1588"
+        ]
+      },
+      {
+        "Cell": [
+          "743084",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify aromatase inhibitors - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743210",
+          "4",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "4504517",
+          "38.8762",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "3315"
+        ]
+      },
+      {
+        "Cell": [
+          "743211",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "0.6161",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743212",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743213",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "19.4843",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743215",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743217",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "325495553",
+          "6.1615",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743218",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743219",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "20149576",
+          "17.2114",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "743220",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "325495553",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743221",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743222",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "216409708",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743223",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "216409708",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743224",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "0.2752",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743225",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "",
+          "4.362",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743226",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743227",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743228",
+          "3",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inconclusive",
+          "4504517",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "3315"
+        ]
+      },
+      {
+        "Cell": [
+          "743239",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "325495553",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743240",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Active",
+          "325495553",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743241",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743242",
+          "2",
+          "1",
+          "",
+          "144209802",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743199",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743239",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "325495553",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743240",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "325495553",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743241",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743242",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743202",
+          "4",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "20149576",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "743203",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743209",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743210",
+          "4",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "4504517",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "3315"
+        ]
+      },
+      {
+        "Cell": [
+          "743211",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "",
+          "26.6011",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743212",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "216409690",
+          "11.8823",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743213",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "",
+          "5.9553",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743215",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743217",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inconclusive",
+          "325495553",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743218",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743219",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "20149576",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "4780"
+        ]
+      },
+      {
+        "Cell": [
+          "743220",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "325495553",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "9971"
+        ]
+      },
+      {
+        "Cell": [
+          "743221",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743222",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743223",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409708",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "7421"
+        ]
+      },
+      {
+        "Cell": [
+          "743224",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743225",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743226",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743227",
+          "2",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409690",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "5467"
+        ]
+      },
+      {
+        "Cell": [
+          "743228",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "4504517",
+          "",
+          "Ratio Potency (uM)",
+          "qHTS assay for small molecule activators of the heat shock response signaling pathway: Summary",
+          "Summary",
+          "",
+          "",
+          "3315"
+        ]
+      },
+      {
+        "Cell": [
+          "687035",
+          "1",
+          "1",
+          "",
+          "163564068",
+          "104741",
+          "Inactive",
+          "125541954",
+          "",
+          "",
+          "Fluorescence polarization based primary biochemical high throughput screening assay of LOPAC1280 to identify inhibitors of hepatitis C non-structural protein 3 helicase",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "687037",
+          "1",
+          "3",
+          "",
+          "163564068",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence-based counterscreen assay of HCV NS3 helicase-DNA binding inhibitors in LOPAC1280: biochemical high-throughput screening assay to identify compounds that enhance or quench fluorescence of a Cy5-DNA-NS3h complex",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "743191",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "216409692",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway",
+          "Confirmatory",
+          "",
+          "",
+          "5468"
+        ]
+      },
+      {
+        "Cell": [
+          "743194",
+          "3",
+          "1",
+          "",
+          "170464917",
+          "104741",
+          "Inactive",
+          "",
+          "",
+          "Potency-Replicate_1",
+          "qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}

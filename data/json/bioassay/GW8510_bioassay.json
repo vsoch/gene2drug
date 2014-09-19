@@ -1,0 +1,690 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "240769",
+          "9",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.01",
+          "IC50",
+          "Inhibition of Cyclin-dependent kinase 2",
+          "Confirmatory",
+          "15857136",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "226850",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "2.6",
+          "IC50",
+          "Inhibition of progression of cells from G1 into S-phase by BrdU incorporation assay",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "213423",
+          "9",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.009",
+          "IC50",
+          "Inhibition of receptor Tyrosine kinase A, TrkA (nerve growth factor receptor)",
+          "Confirmatory",
+          "15013000",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "202223",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "10",
+          "IC50",
+          "Inhibition of SW620 tumor cell proliferation",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "166695",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "1.7",
+          "IC50",
+          "Inhibition of RKO tumor cell proliferation",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "105450",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "6.8",
+          "IC50",
+          "Inhibition of MDA-MB468 tumor cell proliferation",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "84286",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "5.1",
+          "IC50",
+          "Inhibition of HT-29 tumor cell proliferation",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "81899",
+          "6",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "13",
+          "IC50",
+          "Inhibition of human foreskin fibroblasts (HFF) proliferation",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "55538",
+          "7",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.1",
+          "IC50",
+          "Inhibitory activity against human cyclin-dependent kinase 1 (CDK1)",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "53507",
+          "10",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "311033358",
+          "0.01",
+          "IC50",
+          "Inhibition of Cyclin-dependent kinase 2 cyclin A",
+          "Confirmatory",
+          "15013000",
+          "",
+          "890"
+        ]
+      },
+      {
+        "Cell": [
+          "53507",
+          "10",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "116051",
+          "0.01",
+          "IC50",
+          "Inhibition of Cyclin-dependent kinase 2 cyclin A",
+          "Confirmatory",
+          "15013000",
+          "",
+          "1017"
+        ]
+      },
+      {
+        "Cell": [
+          "53507",
+          "10",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "8134359",
+          "0.01",
+          "IC50",
+          "Inhibition of Cyclin-dependent kinase 2 cyclin A",
+          "Confirmatory",
+          "15013000",
+          "",
+          "8900"
+        ]
+      },
+      {
+        "Cell": [
+          "53362",
+          "7",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.0097",
+          "IC50",
+          "Inhibitory activity against human cyclin-dependent kinase 2 (CDK2)",
+          "Confirmatory",
+          "11728181",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "53361",
+          "7",
+          "2",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.0097",
+          "IC50",
+          "Evaluated for inhibition of human cyclin dependent kinase 2 (CDK2)",
+          "Confirmatory",
+          "15115396",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "623989",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "21361340",
+          "0.0113",
+          "AC50_uM",
+          "Inhibition of Human GSK3 beta Activity Measured in Biochemical System Using Microfluidics - 2046-10_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2932"
+        ]
+      },
+      {
+        "Cell": [
+          "623979",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Inconclusive",
+          "20072248",
+          "",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2046-12_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "8851"
+        ]
+      },
+      {
+        "Cell": [
+          "623979",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Inconclusive",
+          "48146199",
+          "",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2046-12_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "1020"
+        ]
+      },
+      {
+        "Cell": [
+          "623978",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "49574532",
+          "0.121",
+          "AC50_uM",
+          "Inhibition of Human GSK3 alpha Activity Measured in Biochemical System Using Microfluidics - 2046-11_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2931"
+        ]
+      },
+      {
+        "Cell": [
+          "588434",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "49574532",
+          "0.144",
+          "AC50_uM",
+          "Inhibition of Human GSK-3 alpha Activity Measured in Biochemical System Using Microfluidics - 2063-06_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2931"
+        ]
+      },
+      {
+        "Cell": [
+          "588430",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "20072248",
+          "0.01",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2063-07_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "8851"
+        ]
+      },
+      {
+        "Cell": [
+          "588430",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "48146199",
+          "0.01",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2063-07_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "1020"
+        ]
+      },
+      {
+        "Cell": [
+          "588429",
+          "1",
+          "1",
+          "",
+          "104170299",
+          "6539118",
+          "Active",
+          "21361340",
+          "0.0124",
+          "AC50_uM",
+          "Inhibition of Human GSK-3 beta Activity Measured in Biochemical System Using Microfluidics - 2063-05_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2932"
+        ]
+      },
+      {
+        "Cell": [
+          "530320",
+          "2",
+          "4",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.119",
+          "EC50",
+          "Antitrypanosomal activity against blood stream form of Trypanosoma brucei 427 assessed as growth inhibition after 48 hrs by alamar blue assay",
+          "Confirmatory",
+          "18644955",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "530319",
+          "2",
+          "4",
+          "",
+          "123091076",
+          "6539118",
+          "Active",
+          "",
+          "0.001",
+          "IC50",
+          "Inhibition of Trypanosoma brucei recombinant MBP-fused GSK-3 short isoform expressed in Escherichia coli by scintillation proximity assay",
+          "Confirmatory",
+          "18644955",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "623999",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "20072248",
+          "0.418",
+          "AC50_uM",
+          "CDK5 Measured in Biochemical System Using Plate Reader - 2046-05_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "8851"
+        ]
+      },
+      {
+        "Cell": [
+          "623999",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "48146199",
+          "0.418",
+          "AC50_uM",
+          "CDK5 Measured in Biochemical System Using Plate Reader - 2046-05_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "1020"
+        ]
+      },
+      {
+        "Cell": [
+          "623998",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "21361340",
+          "0.807",
+          "AC50_uM",
+          "GSK3beta Measured in Biochemical System Using Plate Reader - 2046-01_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "2932"
+        ]
+      },
+      {
+        "Cell": [
+          "623989",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "21361340",
+          "0.03",
+          "AC50_uM",
+          "Inhibition of Human GSK3 beta Activity Measured in Biochemical System Using Microfluidics - 2046-10_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2932"
+        ]
+      },
+      {
+        "Cell": [
+          "623979",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "48146199",
+          "0.023",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2046-12_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "1020"
+        ]
+      },
+      {
+        "Cell": [
+          "623979",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "20072248",
+          "0.023",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2046-12_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "8851"
+        ]
+      },
+      {
+        "Cell": [
+          "623978",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "49574532",
+          "0.281",
+          "AC50_uM",
+          "Inhibition of Human GSK3 alpha Activity Measured in Biochemical System Using Microfluidics - 2046-11_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2931"
+        ]
+      },
+      {
+        "Cell": [
+          "588434",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "49574532",
+          "0.206",
+          "AC50_uM",
+          "Inhibition of Human GSK-3 alpha Activity Measured in Biochemical System Using Microfluidics - 2063-06_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2931"
+        ]
+      },
+      {
+        "Cell": [
+          "588430",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "48146199",
+          "0.016",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2063-07_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "1020"
+        ]
+      },
+      {
+        "Cell": [
+          "588430",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "20072248",
+          "0.016",
+          "AC50_uM",
+          "Inhibition of Human CDK5 Activity Measured in Biochemical System Using Microfluidics - 2063-07_Inhibitor_Dose_DryPowder_Activity",
+          "Confirmatory",
+          "",
+          "",
+          "8851"
+        ]
+      },
+      {
+        "Cell": [
+          "588429",
+          "1",
+          "1",
+          "",
+          "87219187",
+          "6539118",
+          "Active",
+          "21361340",
+          "0.016",
+          "AC50_uM",
+          "Inhibition of Human GSK-3 beta Activity Measured in Biochemical System Using Microfluidics - 2063-05_Inhibitor_Dose_DryPowder_Activity_Set2",
+          "Confirmatory",
+          "",
+          "",
+          "2932"
+        ]
+      }
+    ]
+  }
+}

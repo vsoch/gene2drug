@@ -1,0 +1,5231 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "1195",
+          "1",
+          "2",
+          "",
+          "48415625",
+          "2366",
+          "Active",
+          "",
+          "",
+          "",
+          "DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1332",
+          "1",
+          "1",
+          "",
+          "49698904",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "High Throughput Screen to Identify Inhibitors of Mycobacterium tuberculosis H37Rv",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2316",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Activators of the Reversal of PD-1 Mediated Inhibitors of T-Cell Inhibition",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "86750",
+          "4",
+          "7",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "399889",
+          "",
+          "",
+          "Contractile effect on isolated guinea pig ileal segments is a measure of H1 (histamine) receptor agonistic activity relative to histamine.",
+          "Other",
+          "7731015",
+          "",
+          "100135539"
+        ]
+      },
+      {
+        "Cell": [
+          "375699",
+          "8",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Active",
+          "17365993",
+          "2.03",
+          "Ki",
+          "Binding affinity to rat histamine H3 receptor",
+          "Confirmatory",
+          "19456097",
+          "",
+          "85268"
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "624137",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "881546",
+          "",
+          "",
+          "SMM ID4 Measured in Biochemical System Using Small Molecule MicroArray - 2128-01_Other_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3400"
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624260",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "109633019",
+          "",
+          "",
+          "NSD2 Inhibitors Measured in Biochemical System Using Plate Reader - 2115-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "7468"
+        ]
+      },
+      {
+        "Cell": [
+          "624151",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Re-Activators of the P53 Mutant Pathway Measured in Cell-Based System Using Plate Reader - 2071-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85789421",
+          "2366",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625144",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "239977155",
+          "",
+          "IC50",
+          "DRUGMATRIX: Leukotriene LTC4 Synthase enzyme inhibition (substrate: LTA4)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625145",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "20138087",
+          "",
+          "IC50",
+          "DRUGMATRIX: Cysteinyl leukotriene receptor 1 radioligand binding (ligand: [3H]LTD4)",
+          "Confirmatory",
+          "",
+          "",
+          "10800"
+        ]
+      },
+      {
+        "Cell": [
+          "625146",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "126397",
+          "",
+          "IC50",
+          "DRUGMATRIX: Lipoxygenase 15-LO enzyme inhibition (substrate: Linoleic acid)",
+          "Confirmatory",
+          "",
+          "",
+          "100009114"
+        ]
+      },
+      {
+        "Cell": [
+          "625147",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "395398606",
+          "",
+          "IC50",
+          "DRUGMATRIX: Melanocortin MC3 radioligand binding (ligand: [125I] NDP-alpha-MSH)",
+          "Confirmatory",
+          "",
+          "",
+          "4159"
+        ]
+      },
+      {
+        "Cell": [
+          "625148",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "60392672",
+          "",
+          "IC50",
+          "DRUGMATRIX: Melanocortin MC4 radioligand binding (ligand: [125I] NDP-alpha-MSH)",
+          "Confirmatory",
+          "",
+          "",
+          "4160"
+        ]
+      },
+      {
+        "Cell": [
+          "625149",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "729996",
+          "",
+          "IC50",
+          "DRUGMATRIX: Melanocortin MC5 radioligand binding (ligand: [125I] NDP-alpha-MSH)",
+          "Confirmatory",
+          "",
+          "",
+          "4161"
+        ]
+      },
+      {
+        "Cell": [
+          "625150",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113978",
+          "",
+          "IC50",
+          "DRUGMATRIX: Monoamine Oxidase MAO-A enzyme inhibition (substrate: Kynuramine)",
+          "Confirmatory",
+          "",
+          "",
+          "4128"
+        ]
+      },
+      {
+        "Cell": [
+          "625151",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113118",
+          "",
+          "IC50",
+          "DRUGMATRIX: Muscarinic M1 radioligand binding (ligand: [3H] N-Methylscopolamine)",
+          "Confirmatory",
+          "",
+          "",
+          "1128"
+        ]
+      },
+      {
+        "Cell": [
+          "625152",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113122",
+          "",
+          "IC50",
+          "DRUGMATRIX: Muscarinic M2 radioligand binding (ligand: [3H] N-Methylscopolamine)",
+          "Confirmatory",
+          "",
+          "",
+          "1129"
+        ]
+      },
+      {
+        "Cell": [
+          "625153",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113125",
+          "",
+          "IC50",
+          "DRUGMATRIX: Muscarinic M3 radioligand binding (ligand: [3H] N-Methylscopolamine)",
+          "Confirmatory",
+          "",
+          "",
+          "1131"
+        ]
+      },
+      {
+        "Cell": [
+          "625154",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "23503039",
+          "",
+          "IC50",
+          "DRUGMATRIX: Muscarinic M4 radioligand binding (ligand: [3H] N-Methylscopolamine)",
+          "Confirmatory",
+          "",
+          "",
+          "1132"
+        ]
+      },
+      {
+        "Cell": [
+          "625155",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "543761",
+          "",
+          "IC50",
+          "DRUGMATRIX: Muscarinic M5 radioligand binding (ligand: [3H] N-Methylscopolamine)",
+          "Confirmatory",
+          "",
+          "",
+          "1133"
+        ]
+      },
+      {
+        "Cell": [
+          "625156",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "128997",
+          "",
+          "",
+          "DRUGMATRIX: Neuropeptide Y Y1 radioligand binding (ligand: [125I] Peptide YY)",
+          "Other",
+          "",
+          "",
+          "4886"
+        ]
+      },
+      {
+        "Cell": [
+          "625157",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1352610",
+          "",
+          "IC50",
+          "DRUGMATRIX: Neuropeptide Y Y2 radioligand binding (ligand: [125I] Peptide YY)",
+          "Confirmatory",
+          "",
+          "",
+          "4887"
+        ]
+      },
+      {
+        "Cell": [
+          "625158",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Nicotinic Acetylcholine radioligand binding (ligand: [125I] Epibatidine)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625159",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "266646",
+          "",
+          "IC50",
+          "DRUGMATRIX: Nitric Oxide Synthase, Neuronal (nNOS) radioligand binding (ligand: [3H]L-Arginine)",
+          "Confirmatory",
+          "",
+          "",
+          "24598"
+        ]
+      },
+      {
+        "Cell": [
+          "625160",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "266649",
+          "",
+          "",
+          "DRUGMATRIX: Nitric Oxide Synthase, Inducible (iNOS) enzyme inhibition (substrate: L-Arginine)",
+          "Other",
+          "",
+          "",
+          "18126"
+        ]
+      },
+      {
+        "Cell": [
+          "625161",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "311033488",
+          "",
+          "IC50",
+          "DRUGMATRIX: Opiate delta1 (OP1, DOP) radioligand binding (ligand: [3H] Naltrindole)",
+          "Confirmatory",
+          "",
+          "",
+          "4985"
+        ]
+      },
+      {
+        "Cell": [
+          "625162",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "116242691",
+          "",
+          "IC50",
+          "DRUGMATRIX: Opiate kappa (OP2, KOP) radioligand binding (ligand: [3H] Diprenorphine)",
+          "Confirmatory",
+          "",
+          "",
+          "4986"
+        ]
+      },
+      {
+        "Cell": [
+          "625163",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "2851402",
+          "",
+          "IC50",
+          "DRUGMATRIX: Opiate mu (OP3, MOP) radioligand binding (ligand: [3H] Diprenorphine)",
+          "Confirmatory",
+          "",
+          "",
+          "4988"
+        ]
+      },
+      {
+        "Cell": [
+          "625164",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Phorbol Ester radioligand binding (ligand: [3H] PDBu)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625165",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Phosphodiesterase PDE3 enzyme inhibition (substrate: [3H]cAMP + cAMP)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625166",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Phosphodiesterase PDE4 enzyme inhibition (substrate: [3H]cAMP + cAMP)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625167",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "317373261",
+          "",
+          "IC50",
+          "DRUGMATRIX: Phosphodiesterase PDE5 enzyme inhibition (substrate: [3H]cGMP + cGMP)",
+          "Confirmatory",
+          "",
+          "",
+          "8654"
+        ]
+      },
+      {
+        "Cell": [
+          "625168",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "129557",
+          "",
+          "IC50",
+          "DRUGMATRIX: Platelet Activating Factor (PAF) radioligand binding (ligand: [3H] PAF)",
+          "Confirmatory",
+          "",
+          "",
+          "5724"
+        ]
+      },
+      {
+        "Cell": [
+          "625169",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Platelet-Derived Growth Factor (PDGF) radioligand binding (ligand: [125I] PDGF)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625170",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Potassium Channel [KATP] radioligand binding (ligand: [3H] Glyburide)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625171",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "7531135",
+          "",
+          "IC50",
+          "DRUGMATRIX: Potassium Channel HERG radioligand binding (ligand: [3H] Astemizole)",
+          "Confirmatory",
+          "",
+          "",
+          "3757"
+        ]
+      },
+      {
+        "Cell": [
+          "625172",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "75071465",
+          "",
+          "IC50",
+          "DRUGMATRIX: Progesterone radioligand binding (ligand: [3H] R-5020)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625173",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "2822103",
+          "",
+          "IC50",
+          "DRUGMATRIX: Peptidase, Angiotensin Converting Enzyme enzyme inhibition (substrate: FAPGG)",
+          "Confirmatory",
+          "",
+          "",
+          "100009274"
+        ]
+      },
+      {
+        "Cell": [
+          "625174",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "266321",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protease, Caspase 1 enzyme inhibition (substrate: Ac-YVAD-AMC)",
+          "Confirmatory",
+          "",
+          "",
+          "834"
+        ]
+      },
+      {
+        "Cell": [
+          "625175",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "115725",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protease, Cathepsin G enzyme inhibition (substrate: Suc-Ala-Ala-Pro-Phe-AMC)",
+          "Confirmatory",
+          "",
+          "",
+          "1511"
+        ]
+      },
+      {
+        "Cell": [
+          "625176",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "119292",
+          "",
+          "",
+          "DRUGMATRIX: Peptidase, ELA2 (Neutrophil Elastase 2) enzyme inhibition (substrate: N-MeOSuc-Ala-Ala-Pro-Val-pNA)",
+          "Other",
+          "",
+          "",
+          "1991"
+        ]
+      },
+      {
+        "Cell": [
+          "625177",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "116852",
+          "",
+          "IC50",
+          "DRUGMATRIX: Peptidase, Matrix Metalloprotease-1 (MMP-1) enzyme inhibition (substrate: Mca-Pro-Leu-Gly-Leu-Dpa-Ala-Arg-NH2)",
+          "Confirmatory",
+          "",
+          "",
+          "4312"
+        ]
+      },
+      {
+        "Cell": [
+          "625178",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "269849668",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protease, Matrix Metalloprotease-9 (MMP-9) enzyme inhibition (substrate: Mca-Pro-Leu-Gly-Leu-Dpa-Ala-Arg-NH2)",
+          "Confirmatory",
+          "",
+          "",
+          "4318"
+        ]
+      },
+      {
+        "Cell": [
+          "625179",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "317373571",
+          "",
+          "",
+          "DRUGMATRIX: Protein Serine/Threonine Kinase PKCalpha enzyme inhibition (substrate: Histone)",
+          "Other",
+          "",
+          "",
+          "5578"
+        ]
+      },
+      {
+        "Cell": [
+          "625180",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "232066",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Serine/Threonine Kinase, ERK1 enzyme inhibition (substrate: Myelin Basic Protein)",
+          "Confirmatory",
+          "",
+          "",
+          "5595"
+        ]
+      },
+      {
+        "Cell": [
+          "625181",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "119554",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Serine/Threonine Kinase, ERK2 enzyme inhibition (substrate: Myelin Basic Protein)",
+          "Confirmatory",
+          "",
+          "",
+          "5594"
+        ]
+      },
+      {
+        "Cell": [
+          "625182",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "2499600",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Serine/Threonine Kinase, p38alpha enzyme inhibition (substrate: Myelin Basic Protein)",
+          "Confirmatory",
+          "",
+          "",
+          "1432"
+        ]
+      },
+      {
+        "Cell": [
+          "625183",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1352673",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Serine/Threonine Phosphatase, PPP3CA (Calcineurin, PP2B) enzyme inhibition (substrate: DiFMUP)",
+          "Confirmatory",
+          "",
+          "",
+          "5530"
+        ]
+      },
+      {
+        "Cell": [
+          "625184",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "2811086",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Tyrosine Kinase, EGF Receptor enzyme inhibition (substrate: Poly(Glu:Tyr))",
+          "Confirmatory",
+          "",
+          "",
+          "1956"
+        ]
+      },
+      {
+        "Cell": [
+          "625185",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "125370",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Tyrosine Kinase, Fyn enzyme inhibition (substrate: Poly(Glu:Tyr))",
+          "Confirmatory",
+          "",
+          "",
+          "2534"
+        ]
+      },
+      {
+        "Cell": [
+          "625186",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "119533",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Tyrosine Kinase, ERBB2 (HER2) enzyme inhibition (substrate: Poly(Glu:Tyr))",
+          "Confirmatory",
+          "",
+          "",
+          "2064"
+        ]
+      },
+      {
+        "Cell": [
+          "625187",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "125474",
+          "",
+          "IC50",
+          "DRUGMATRIX: Protein Tyrosine Kinase, LCK enzyme inhibition (substrate: Poly(Glu:Tyr))",
+          "Confirmatory",
+          "",
+          "",
+          "3932"
+        ]
+      },
+      {
+        "Cell": [
+          "625188",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "33112650",
+          "",
+          "",
+          "DRUGMATRIX: Protein Tyrosine Phosphatase, PTPRC (CD45) enzyme inhibition (substrate: DiFMUP)",
+          "Other",
+          "",
+          "",
+          "5788"
+        ]
+      },
+      {
+        "Cell": [
+          "625189",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Purinergic P2X radioligand binding (ligand: [3H] alpha, beta-Methylene-ATP)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625190",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT1A radioligand binding (ligand: [3H] 8-OH-DPAT)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625191",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "112815",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT1B radioligand binding (ligand: [125I] Cyanopindolol)",
+          "Confirmatory",
+          "",
+          "",
+          "25075"
+        ]
+      },
+      {
+        "Cell": [
+          "625192",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "543727",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2A radioligand binding (ligand: [3H] Ketanserin)",
+          "Confirmatory",
+          "",
+          "",
+          "3356"
+        ]
+      },
+      {
+        "Cell": [
+          "625193",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113037",
+          "",
+          "IC50",
+          "DRUGMATRIX: Acetylcholinesterase enzyme inhibition (substrate: acetylthiocholine)",
+          "Confirmatory",
+          "",
+          "",
+          "43"
+        ]
+      },
+      {
+        "Cell": [
+          "625194",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "231473",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adenosine A1 radioligand binding (ligand: DPCPX)",
+          "Confirmatory",
+          "",
+          "",
+          "134"
+        ]
+      },
+      {
+        "Cell": [
+          "625195",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "543740",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adenosine A2A radioligand binding (ligand: AB-MECA)",
+          "Confirmatory",
+          "",
+          "",
+          "135"
+        ]
+      },
+      {
+        "Cell": [
+          "625196",
+          "5",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1351831",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adenosine A3 radioligand binding (ligand: AB-MECA)",
+          "Confirmatory",
+          "",
+          "",
+          "140"
+        ]
+      },
+      {
+        "Cell": [
+          "625197",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Sodium/nucleoside co-transporter radioligand binding (ligand: nitrobenzylthioinosine)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625198",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1168244",
+          "",
+          "IC50",
+          "DRUGMATRIX: Alpha-1D adrenergic receptor radioligand binding (ligand: prazosin)",
+          "Confirmatory",
+          "",
+          "",
+          "29413"
+        ]
+      },
+      {
+        "Cell": [
+          "625199",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "543734",
+          "",
+          "IC50",
+          "DRUGMATRIX: Alpha-1B adrenergic receptor radioligand binding (ligand: prazosin)",
+          "Confirmatory",
+          "",
+          "",
+          "24173"
+        ]
+      },
+      {
+        "Cell": [
+          "625200",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1168243",
+          "",
+          "IC50",
+          "DRUGMATRIX: Alpha-1D adrenergic receptor radioligand binding (ligand: prazosin)",
+          "Confirmatory",
+          "",
+          "",
+          "146"
+        ]
+      },
+      {
+        "Cell": [
+          "625201",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1351829",
+          "",
+          "IC50",
+          "DRUGMATRIX: Alpha-2A adrenergic receptor radioligand binding (ligand: MK-912)",
+          "Confirmatory",
+          "",
+          "",
+          "150"
+        ]
+      },
+      {
+        "Cell": [
+          "625202",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "613504690",
+          "",
+          "IC50",
+          "DRUGMATRIX: Alpha-2B adrenergic receptor radioligand binding (ligand: Rauwolscine)",
+          "Confirmatory",
+          "",
+          "",
+          "151"
+        ]
+      },
+      {
+        "Cell": [
+          "625203",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "20141211",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adrenergic Alpha-2C radioligand binding (ligand: [3H] MK-912)",
+          "Confirmatory",
+          "",
+          "",
+          "152"
+        ]
+      },
+      {
+        "Cell": [
+          "625204",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "48429211",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adrenergic beta1 radioligand binding (ligand: [125I] Cyanopindolol)",
+          "Confirmatory",
+          "",
+          "",
+          "153"
+        ]
+      },
+      {
+        "Cell": [
+          "625205",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "296439450",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adrenergic beta2 radioligand binding (ligand: [3H] CGP-12177)",
+          "Confirmatory",
+          "",
+          "",
+          "154"
+        ]
+      },
+      {
+        "Cell": [
+          "625206",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "461604",
+          "",
+          "IC50",
+          "DRUGMATRIX: Adrenergic beta3 radioligand binding (ligand: [125I] Cyanopindolol)",
+          "Confirmatory",
+          "",
+          "",
+          "155"
+        ]
+      },
+      {
+        "Cell": [
+          "625207",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "128616",
+          "",
+          "IC50",
+          "DRUGMATRIX: Norepinephrine Transporter radioligand binding (ligand: [125I] RTI-55)",
+          "Confirmatory",
+          "",
+          "",
+          "6530"
+        ]
+      },
+      {
+        "Cell": [
+          "625208",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1168407",
+          "",
+          "IC50",
+          "DRUGMATRIX: Aldose Reductase enzyme inhibition (substrate: DL-Glyceraldehyde)",
+          "Confirmatory",
+          "",
+          "",
+          "24192"
+        ]
+      },
+      {
+        "Cell": [
+          "625209",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1703214",
+          "",
+          "IC50",
+          "DRUGMATRIX: Angiotensin AT2 radioligand binding (ligand: [125I] CGP-42112A)",
+          "Confirmatory",
+          "",
+          "",
+          "186"
+        ]
+      },
+      {
+        "Cell": [
+          "625210",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: ATPase, Na+/K+ enzyme inhibition (substrate: ATP)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625211",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Atrial Natriuretic Factor (ANF) radioligand binding (ligand: [125I] ANF (rat))",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625212",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: beta-Lactamase enzyme inhibition (substrate: Nitrocefin)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625213",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "2506481",
+          "",
+          "IC50",
+          "DRUGMATRIX: Bradykinin B2 radioligand binding (ligand: [3H] Bradykinin)",
+          "Confirmatory",
+          "",
+          "",
+          "624"
+        ]
+      },
+      {
+        "Cell": [
+          "625214",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "550544247",
+          "",
+          "",
+          "DRUGMATRIX: Calcitonin radioligand binding (ligand: [125I] Calcitonin (salmon))",
+          "Other",
+          "",
+          "",
+          "799"
+        ]
+      },
+      {
+        "Cell": [
+          "625215",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Calcium Channel Type L, Benzothiazepine radioligand binding (ligand: [3H] Diltiazem)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625216",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Calcium Channel Type L, Dihydropyridine radioligand binding (ligand: [3H] Nitrendipine)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625217",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1168220",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2B radioligand binding (ligand: [3H] Lysergic acid diethylamide)",
+          "Confirmatory",
+          "",
+          "",
+          "3357"
+        ]
+      },
+      {
+        "Cell": [
+          "625218",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "112816",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2C radioligand binding (ligand: [3H] Mesulergine)",
+          "Confirmatory",
+          "",
+          "",
+          "3358"
+        ]
+      },
+      {
+        "Cell": [
+          "625219",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT3 radioligand binding (ligand: [3H] GR-65630)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625220",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "6224984",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT4 radioligand binding (ligand: [3H] GR-113808)",
+          "Confirmatory",
+          "",
+          "",
+          "100135548"
+        ]
+      },
+      {
+        "Cell": [
+          "625221",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1703010",
+          "",
+          "IC50",
+          "DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT6 radioligand binding (ligand: [3H] Lysergic acid diethylamide)",
+          "Confirmatory",
+          "",
+          "",
+          "3362"
+        ]
+      },
+      {
+        "Cell": [
+          "625222",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "400630",
+          "",
+          "IC50",
+          "DRUGMATRIX: Transporter, Serotonin (5-Hydroxytryptamine) (SERT) radioligand binding (ligand: [3H] Paroxetine)",
+          "Confirmatory",
+          "",
+          "",
+          "6532"
+        ]
+      },
+      {
+        "Cell": [
+          "625223",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "74752153",
+          "",
+          "IC50",
+          "DRUGMATRIX: Sigma1 radioligand binding (ligand: [3H] Haloperidol)",
+          "Confirmatory",
+          "",
+          "",
+          "10280"
+        ]
+      },
+      {
+        "Cell": [
+          "625224",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Sigma2 radioligand binding (ligand: [3H] Ifenprodil)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625225",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Sodium Channel, Site 2 radioligand binding (ligand: [3H] Batrachotoxin)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625226",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "128359",
+          "",
+          "IC50",
+          "DRUGMATRIX: Tachykinin NK1 radioligand binding (ligand: [3H] Substance P)",
+          "Confirmatory",
+          "",
+          "",
+          "6869"
+        ]
+      },
+      {
+        "Cell": [
+          "625227",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "229462950",
+          "",
+          "IC50",
+          "DRUGMATRIX: Tachykinin NK2 radioligand binding (ligand: [3H] SR-48968)",
+          "Confirmatory",
+          "",
+          "",
+          "6865"
+        ]
+      },
+      {
+        "Cell": [
+          "625228",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "113832",
+          "",
+          "IC50",
+          "DRUGMATRIX: Androgen (Testosterone) AR radioligand binding (ligand: [3H] Mibolerone)",
+          "Confirmatory",
+          "",
+          "",
+          "24208"
+        ]
+      },
+      {
+        "Cell": [
+          "625229",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "254763392",
+          "",
+          "IC50",
+          "DRUGMATRIX: Thromboxane Synthetase enzyme inhibition (substrate: PGH2)",
+          "Confirmatory",
+          "",
+          "",
+          "6916"
+        ]
+      },
+      {
+        "Cell": [
+          "625230",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Tumor Necrosis Factor (TNF), Non-Selective radioligand binding (ligand: [125I] TNF-alpha)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625231",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "143811474",
+          "",
+          "IC50",
+          "DRUGMATRIX: Vascular Endothelial Growth Factor (VEGF) radioligand binding (ligand: [125I] VEGF)",
+          "Confirmatory",
+          "",
+          "",
+          "2321"
+        ]
+      },
+      {
+        "Cell": [
+          "625232",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "418253",
+          "",
+          "",
+          "DRUGMATRIX: Vasoactive Intestinal Peptide VIP1 radioligand binding (ligand: [125I] VIP)",
+          "Other",
+          "",
+          "",
+          "7433"
+        ]
+      },
+      {
+        "Cell": [
+          "625233",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "586197",
+          "",
+          "IC50",
+          "DRUGMATRIX: Vasopressin V1A radioligand binding (ligand: [125I] PhenylacetylTyr(Me)PheGlnAsnArgProArgTyr)",
+          "Confirmatory",
+          "",
+          "",
+          "552"
+        ]
+      },
+      {
+        "Cell": [
+          "625234",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Calcium Channel Type L, Phenylalkylamine radioligand binding (ligand: [3H] (-)-Desmethoxyverapamil (D-888))",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625235",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "115562",
+          "",
+          "IC50",
+          "DRUGMATRIX: Cannabinoid CB1 radioligand binding (ligand: [3H] SR141716A)",
+          "Confirmatory",
+          "",
+          "",
+          "1268"
+        ]
+      },
+      {
+        "Cell": [
+          "625236",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "115456",
+          "",
+          "IC50",
+          "DRUGMATRIX: Carbonic Anhydrase II enzyme inhibition (substrate: 4-Nitrophenyl acetate (4-NPA))",
+          "Confirmatory",
+          "",
+          "",
+          "760"
+        ]
+      },
+      {
+        "Cell": [
+          "625237",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1168965",
+          "",
+          "IC50",
+          "DRUGMATRIX: Chemokine CCR2B radioligand binding (ligand: [125I] MCP-1)",
+          "Confirmatory",
+          "",
+          "",
+          "729230"
+        ]
+      },
+      {
+        "Cell": [
+          "625238",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1705894",
+          "",
+          "IC50",
+          "DRUGMATRIX: Chemokine CCR4 radioligand binding (ligand: [125I] TARC)",
+          "Confirmatory",
+          "",
+          "",
+          "1233"
+        ]
+      },
+      {
+        "Cell": [
+          "625239",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1705896",
+          "",
+          "IC50",
+          "DRUGMATRIX: Chemokine CCR5 radioligand binding (ligand: [125I] MIP-1alpha)",
+          "Confirmatory",
+          "",
+          "",
+          "1234"
+        ]
+      },
+      {
+        "Cell": [
+          "625240",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "108936015",
+          "",
+          "",
+          "DRUGMATRIX: Chemokine CXCR1 (IL-8A)",
+          "Other",
+          "",
+          "",
+          "3577"
+        ]
+      },
+      {
+        "Cell": [
+          "625241",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1352454",
+          "",
+          "IC50",
+          "DRUGMATRIX: Chemokine CXCR2 (IL-8B) radioligand binding (ligand: [125I] IL-8)",
+          "Confirmatory",
+          "",
+          "",
+          "3579"
+        ]
+      },
+      {
+        "Cell": [
+          "625242",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "416772",
+          "",
+          "IC50",
+          "DRUGMATRIX: Cholecystokinin CCKA radioligand binding (ligand: [3H] L-364,718)",
+          "Confirmatory",
+          "",
+          "",
+          "886"
+        ]
+      },
+      {
+        "Cell": [
+          "625243",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "317373262",
+          "",
+          "IC50",
+          "DRUGMATRIX: Cyclooxygenase COX-1 enzyme inhibition (substrate: Arachidonic acid)",
+          "Confirmatory",
+          "",
+          "",
+          "5742"
+        ]
+      },
+      {
+        "Cell": [
+          "625244",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "3915797",
+          "",
+          "IC50",
+          "DRUGMATRIX: Cyclooxygenase COX-2 enzyme inhibition (substrate: Arachidonic acid)",
+          "Confirmatory",
+          "",
+          "",
+          "5743"
+        ]
+      },
+      {
+        "Cell": [
+          "625245",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "117144",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 1A2 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1544"
+        ]
+      },
+      {
+        "Cell": [
+          "625246",
+          "1",
+          "6",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "308153612",
+          "",
+          "",
+          "DRUGMATRIX: CYP450, 2A6 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Other",
+          "",
+          "",
+          "1548"
+        ]
+      },
+      {
+        "Cell": [
+          "625247",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "60416369",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 2C19 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1557"
+        ]
+      },
+      {
+        "Cell": [
+          "625248",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "6686268",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 2C9 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1559"
+        ]
+      },
+      {
+        "Cell": [
+          "625249",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "84028191",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 2D6 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1565"
+        ]
+      },
+      {
+        "Cell": [
+          "625250",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "117250",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 2E1 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1571"
+        ]
+      },
+      {
+        "Cell": [
+          "625251",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "116241312",
+          "",
+          "IC50",
+          "DRUGMATRIX: CYP450, 3A4 enzyme inhibition (substrate: 7-Benzyloxy-4-(trifluoromethyl)-coumarin)",
+          "Confirmatory",
+          "",
+          "",
+          "1576"
+        ]
+      },
+      {
+        "Cell": [
+          "625252",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "118228",
+          "",
+          "IC50",
+          "DRUGMATRIX: Dopamine D1 radioligand binding (ligand: [3H] SCH-23390)",
+          "Confirmatory",
+          "",
+          "",
+          "1812"
+        ]
+      },
+      {
+        "Cell": [
+          "625253",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "118206",
+          "",
+          "IC50",
+          "DRUGMATRIX: Dopamine D2L radioligand binding (ligand: [3H] Spiperone)",
+          "Confirmatory",
+          "",
+          "",
+          "1813"
+        ]
+      },
+      {
+        "Cell": [
+          "625254",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1169206",
+          "",
+          "IC50",
+          "DRUGMATRIX: Dopamine D3 radioligand binding (ligand: [3H] Spiperone)",
+          "Confirmatory",
+          "",
+          "",
+          "1814"
+        ]
+      },
+      {
+        "Cell": [
+          "625255",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "1345939",
+          "",
+          "IC50",
+          "DRUGMATRIX: Dopamine D4.2 radioligand binding (ligand: [3H] Spiperone)",
+          "Confirmatory",
+          "",
+          "",
+          "1815"
+        ]
+      },
+      {
+        "Cell": [
+          "625256",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "266667",
+          "",
+          "IC50",
+          "DRUGMATRIX: Dopamine Transporter radioligand binding (ligand: [125I] RTI-55)",
+          "Confirmatory",
+          "",
+          "",
+          "6531"
+        ]
+      },
+      {
+        "Cell": [
+          "625257",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "119606",
+          "",
+          "IC50",
+          "DRUGMATRIX: Endothelin ETA radioligand binding (ligand: [125I] Endothelin-1)",
+          "Confirmatory",
+          "",
+          "",
+          "1909"
+        ]
+      },
+      {
+        "Cell": [
+          "625258",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "544257",
+          "",
+          "IC50",
+          "DRUGMATRIX: Estrogen ERalpha radioligand binding (ligand: [3H] Estradiol)",
+          "Confirmatory",
+          "",
+          "",
+          "2099"
+        ]
+      },
+      {
+        "Cell": [
+          "625259",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "6166154",
+          "",
+          "IC50",
+          "DRUGMATRIX: Estrogen ERbeta radioligand binding (ligand: [3H] Estradiol)",
+          "Confirmatory",
+          "",
+          "",
+          "2100"
+        ]
+      },
+      {
+        "Cell": [
+          "625260",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: GABAA, Muscimol, Central radioligand binding (ligand: [3H] Muscimol)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625261",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: GABAA, Flunitrazepam, Central radioligand binding (ligand: [3H] Flunitrazepam)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625262",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: GABAA, Chloride Channel, TBOB radioligand binding (ligand: [3H] TBOB)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625263",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "121069",
+          "",
+          "IC50",
+          "DRUGMATRIX: Glucocorticoid radioligand binding (ligand: [3H] Dexamethasone)",
+          "Confirmatory",
+          "",
+          "",
+          "2908"
+        ]
+      },
+      {
+        "Cell": [
+          "625264",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Glutamate, AMPA radioligand binding (ligand: [3H] AMPA)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625265",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Glutamate, Kainate radioligand binding (ligand: [3H] Kainic acid)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625266",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Glutamate, NMDA, Agonism radioligand binding (ligand: [3H] CGP-39653)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625267",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Glutamate, NMDA, Phencyclidine radioligand binding (ligand: [3H] TCP)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625268",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Glycine, Strychnine-Sensitive radioligand binding (ligand: [3H] Strychnine)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625269",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "547645",
+          "",
+          "IC50",
+          "DRUGMATRIX: Histamine H1, Central radioligand binding (ligand: [3H] Pyrilamine)",
+          "Confirmatory",
+          "",
+          "",
+          "3269"
+        ]
+      },
+      {
+        "Cell": [
+          "625270",
+          "4",
+          "4",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "123120",
+          "",
+          "IC50",
+          "DRUGMATRIX: Histamine H2 radioligand binding (ligand: [125I] Aminopotentidine)",
+          "Confirmatory",
+          "",
+          "",
+          "3274"
+        ]
+      },
+      {
+        "Cell": [
+          "625271",
+          "5",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "123343",
+          "",
+          "IC50",
+          "DRUGMATRIX: HMG-CoA Reductase enzyme inhibition (substrate: [14C]HMG-CoA)",
+          "Confirmatory",
+          "",
+          "",
+          "3156"
+        ]
+      },
+      {
+        "Cell": [
+          "625272",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Imidazoline I2, Central radioligand binding (ligand: [3H] Idazoxan)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625273",
+          "4",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "124531",
+          "",
+          "IC50",
+          "DRUGMATRIX: Insulin radioligand binding (ligand: [125I] Insulin)",
+          "Confirmatory",
+          "",
+          "",
+          "24954"
+        ]
+      },
+      {
+        "Cell": [
+          "625274",
+          "1",
+          "5",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DRUGMATRIX: Interleukin IL-1 radioligand binding (ligand: [125I] interleukin 1beta)",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625275",
+          "3",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "IC50",
+          "DRUGMATRIX: Leukotriene, BLT (LTB4) radioligand binding (ligand: [3H]LTB4)",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625279",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for bilirubinemia",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625280",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholecystitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625281",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholelithiasis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625282",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cirrhosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625283",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for elevated liver function tests",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625284",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic failure",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625285",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic necrosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625286",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625287",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatomegaly",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625288",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for jaundice",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625289",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver disease",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625290",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver fatty",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625291",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver function tests abnormal",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625292",
+          "1",
+          "3",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) combined score",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686977",
+          "2",
+          "1",
+          "",
+          "49698904",
+          "2366",
+          "Inactive",
+          "9657203",
+          "",
+          "IC50",
+          "Vibrio cholerae assay for pro-quorum sensing small molecules",
+          "Confirmatory",
+          "",
+          "",
+          "2615631"
+        ]
+      },
+      {
+        "Cell": [
+          "651548",
+          "1",
+          "1",
+          "",
+          "85787936",
+          "2366",
+          "Inactive",
+          "21361095",
+          "",
+          "",
+          "EZH2/PRC2 methyltransferase inhibitors Measured in Biochemical System Using Plate Reader - 2125-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "2146"
+        ]
+      },
+      {
+        "Cell": [
+          "923830",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: BASO (Basophils); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923831",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: WBC (Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923832",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: NEUTLE (Neutrophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923833",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: HGB (Hemoglobin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923834",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: RBCNUC (Nucleated Erythrocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923962",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: LYMLE (Lymphocytes/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923963",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCH (Ery. Mean Corpuscular Hemoglobin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923964",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: RBC (Erythrocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923965",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MONO (Monocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923966",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: NEUTSG (Neutrophils, Segmented); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923967",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: BASOLE (Basophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923968",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: EOSLE (Eosinophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923969",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCHC (Ery. Mean Corpuscular HGB Concentration); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923970",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCV (Ery. Mean Corpuscular Volume); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923971",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: PLAT (Platelets); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923972",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: EOS (Eosinophils); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923973",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: LYM (Lymphocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923974",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: HCT (Hematocrit); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "923975",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MONOLE (Monocytes/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932991",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: BASO (Basophils); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932992",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: NEUTSG (Neutrophils, Segmented); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932993",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCH (Ery. Mean Corpuscular Hemoglobin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932994",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: EOS (Eosinophils); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932995",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MONOLE (Monocytes/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932996",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: RBCNUC (Nucleated Erythrocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932997",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: LYM (Lymphocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932998",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCHC (Ery. Mean Corpuscular HGB Concentration); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "932999",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: NEUTLE (Neutrophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933000",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: EOSLE (Eosinophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933001",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: PLAT (Platelets); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933002",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: HGB (Hemoglobin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933003",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: WBC (Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933004",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MONO (Monocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933005",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: BASOLE (Basophils/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933006",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: HCT (Hematocrit); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933007",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: LYMLE (Lymphocytes/Leukocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933008",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: MCV (Ery. Mean Corpuscular Volume); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "933009",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Hematology; Assay: RBC (Erythrocytes); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953968",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALB (Albumin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953969",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CK (Creatine Kinase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953970",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: LIPASE (Triacylglycerol Lipase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953971",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: URATE (Urate); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953972",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: PROT (Protein); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953973",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: LDH (Lactate Dehydrogenase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953974",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CO2 (Carbon Dioxide); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953975",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CHOL (Cholesterol); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953976",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: GLUC (Glucose); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "953977",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: AST (Aspartate Aminotransferase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954567",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CHLORIDE (Chloride); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954568",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: POTASSIUM (Potassium); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954569",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: BILI (Bilirubin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954570",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: BUN (Blood Urea Nitrogen); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954571",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: SODIUM (Sodium); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954572",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALT (Alanine Aminotransferase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954573",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALP (Alkaline Phosphatase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954574",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CREAT (Creatinine); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "954575",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 3 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: PHOS (Phosphate); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975227",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: AST (Aspartate Aminotransferase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975228",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: LIPASE (Triacylglycerol Lipase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975229",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: SODIUM (Sodium); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975230",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: PROT (Protein); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975231",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CHLORIDE (Chloride); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975232",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: LDH (Lactate Dehydrogenase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975233",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: PHOS (Phosphate); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975234",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: URATE (Urate); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975235",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CK (Creatine Kinase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975236",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CREAT (Creatinine); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975237",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALT (Alanine Aminotransferase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975238",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: GLUC (Glucose); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975239",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: BILI (Bilirubin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975240",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALB (Albumin); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975241",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: ALP (Alkaline Phosphatase); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975242",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: BUN (Blood Urea Nitrogen); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975243",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CO2 (Carbon Dioxide); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975244",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: CHOL (Cholesterol); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "975245",
+          "1",
+          "1",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Biochemistry; Assay: POTASSIUM (Potassium); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013035",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Autolysis; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013036",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Infiltrative Cell, Polymorphonuclear Cell; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013037",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Infiltrative Cell, Mononuclear Cell; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013038",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Cortex, Mineralization; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013039",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Papilla, Tubule, Regeneration; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013040",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Medulla, Tubule, Dilatation; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1013041",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Nephropathy; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014907",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Interstitium, Inflammation, Chronic; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014908",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Medulla, Mineralization; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014909",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Papilla, Necrosis; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014910",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Cortex, Tubule, Vacuolation; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014911",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Interstitium, Fibrosis; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014912",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Papilla, Mineralization; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014913",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Papilla, Cyst(S); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014914",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Cortex, Tubule, Dilatation; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014915",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Pelvis, Inflammation, Subacute; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014916",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Pelvis, Urothelial Hyperplasia; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014917",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Tubule, Regeneration; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014918",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Tubule, Deposit; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014919",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Pelvis, Dilatation; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014920",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Tubule, Hyaline Droplets; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014921",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Cortex, Tubule, Necrosis; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014922",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Cortex, Cyst(S); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014923",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Medulla, Cyst(S); Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1014924",
+          "1",
+          "2",
+          "",
+          "103193678",
+          "2366",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "DrugMatrix: Regimen: Daily Repeat; Time: 5 day; Dose: High; Vehicle: 100 % water; Route: oral gavage | Dataset: Pathology; Tissue: Kidney; Assay: Tubule, Cast, Proteinaceous; Study_ID: S021007",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}

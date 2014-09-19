@@ -1,0 +1,1070 @@
+{
+  "Table": {
+    "Columns": {
+      "Column": [
+        "AID",
+        "AID Version",
+        "AID Revision",
+        "Panel Member ID",
+        "SID",
+        "CID",
+        "Bioactivity Outcome",
+        "Target GI",
+        "Activity Value [uM]",
+        "Activity Name",
+        "Assay Name",
+        "Bioassay Type",
+        "PubMed ID",
+        "RNAi",
+        "Gene Target if RNAi"
+      ]
+    },
+    "Row": [
+      {
+        "Cell": [
+          "444055",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Fraction absorbed in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444056",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Fraction escaping gut-wall elimination in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444057",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Fraction escaping hepatic elimination in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444058",
+          "6",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Volume of distribution at steady state in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444054",
+          "5",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Oral bioavailability in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444053",
+          "6",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Renal clearance in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444052",
+          "6",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Hepatic clearance in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "444051",
+          "6",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Total clearance in human",
+          "Other",
+          "20070106",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "404304",
+          "3",
+          "7",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "308153583",
+          "",
+          "",
+          "Effect on human MRP2-mediated estradiol-17-beta-glucuronide transport in Sf9 cells inverted membrane vesicles relative to control",
+          "Other",
+          "18457386",
+          "",
+          "1244"
+        ]
+      },
+      {
+        "Cell": [
+          "311932",
+          "3",
+          "7",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "224471897",
+          "",
+          "",
+          "Inhibition of ASM in human H4 cells assessed as residual activity at 10 uM",
+          "Other",
+          "18027916",
+          "",
+          "6609"
+        ]
+      },
+      {
+        "Cell": [
+          "156805",
+          "9",
+          "1",
+          "",
+          "123087813",
+          "4919",
+          "Active",
+          "",
+          "1.7",
+          "Ki",
+          "The compound was tested for its ability to block PCP N-methyl-D-aspartate glutamate receptor at the PCP (phencyclidine) binding site in postmortem human frontal cortex.",
+          "Confirmatory",
+          "9464369",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "29813",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Oral bioavailability in human",
+          "Other",
+          "10891117",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "29359",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Ionization constant (pKa)",
+          "Other",
+          "10891117",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "28681",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Partition coefficient (logD6.5)",
+          "Other",
+          "10891117",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "27167",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Delta logD (logD6.5 - logD7.4)",
+          "Other",
+          "10891117",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "434959",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary HTS to Measure Inhibition of Y box Binding Protein 1 Expression",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2330",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "12830367",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33",
+          "Screening",
+          "",
+          "",
+          "65975"
+        ]
+      },
+      {
+        "Cell": [
+          "2322",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Homogenous Primary HTS to Identify Inhibitors of STK33 Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2316",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Activators of the Reversal of PD-1 Mediated Inhibitors of T-Cell Inhibition",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2313",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2275",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2241",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "167013344",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "2240",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "38156699",
+          "",
+          "",
+          "Luminescence Cell-Based Primary HTS to Identify Inhibitors of MITF",
+          "Screening",
+          "",
+          "",
+          "4286"
+        ]
+      },
+      {
+        "Cell": [
+          "2062",
+          "1",
+          "2",
+          "",
+          "85209950",
+          "4919",
+          "Active",
+          "",
+          "",
+          "",
+          "Ligands of bioamine (Class A) GPCRs",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1332",
+          "1",
+          "1",
+          "",
+          "49698884",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "High Throughput Screen to Identify Inhibitors of Mycobacterium tuberculosis H37Rv",
+          "Confirmatory",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1195",
+          "1",
+          "2",
+          "",
+          "48416474",
+          "4919",
+          "Active",
+          "",
+          "",
+          "",
+          "DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "248",
+          "1",
+          "1",
+          "",
+          "442081",
+          "4919",
+          "Inconclusive",
+          "",
+          "",
+          "",
+          "NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "192",
+          "1",
+          "1",
+          "",
+          "442081",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in B6D2F1 (BDF1) mice",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "624101",
+          "1",
+          "2",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "62203298",
+          "",
+          "",
+          "Development of  IDH1/2 inhibitors (CTD2project) Measured in Biochemical System Using Plate Reader - 2107-01_Inhibitor_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          "3417"
+        ]
+      },
+      {
+        "Cell": [
+          "624156",
+          "1",
+          "1",
+          "",
+          "85787327",
+          "4919",
+          "Inactive",
+          "",
+          "",
+          "",
+          "Fluorescence Cell-Based Primary  HTS to Identify Reactive Oxygen Species Inducers in Cancer Cells Measured in Cell-Based System Using Plate Reader and Imaging Combination - 2044-01_Activator_SinglePoint_HTS_Activity",
+          "Screening",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540209",
+          "4",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Volume of distribution at steady state in human after iv administration",
+          "Other",
+          "18426954",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540210",
+          "4",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Clearance in human after iv administration",
+          "Other",
+          "18426954",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540212",
+          "4",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Mean residence time in human after iv administration",
+          "Other",
+          "18426954",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "540213",
+          "4",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Half life in human after iv administration",
+          "Other",
+          "18426954",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625278",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "FDA Liver Toxicity Knowledge Base Benchmark Dataset (LTKB-BD) drugs of no concern for DILI",
+          "Other",
+          "21624500",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625279",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for bilirubinemia",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625280",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholecystitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625281",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cholelithiasis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625282",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for cirrhosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625283",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for elevated liver function tests",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625284",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic failure",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625285",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatic necrosis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625286",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatitis",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625287",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for hepatomegaly",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625288",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for jaundice",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625289",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver disease",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625290",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver fatty",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625291",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) score for liver function tests abnormal",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "625292",
+          "1",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug Induced Liver Injury Prediction System (DILIps) training set; hepatic side effect (HepSE) combined score",
+          "Other",
+          "22194678",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "686977",
+          "2",
+          "1",
+          "",
+          "49698884",
+          "4919",
+          "Inactive",
+          "9657203",
+          "",
+          "IC50",
+          "Vibrio cholerae assay for pro-quorum sensing small molecules",
+          "Confirmatory",
+          "",
+          "",
+          "2615631"
+        ]
+      },
+      {
+        "Cell": [
+          "697786",
+          "3",
+          "3",
+          "",
+          "123087813",
+          "4919",
+          "Active",
+          "547645",
+          "17.7828",
+          "IC50",
+          "Antagonist activity at H1 receptor in human HeLa cells assessed as inhibition of histamine-induced Ca2+ release by using fura-2AM-based fluorescence assay",
+          "Confirmatory",
+          "22793499",
+          "",
+          "3269"
+        ]
+      },
+      {
+        "Cell": [
+          "697787",
+          "4",
+          "2",
+          "",
+          "123087813",
+          "4919",
+          "Active",
+          "399890",
+          "6.76083",
+          "IC50",
+          "Displacement of [3H]mepyramine from histamine H1 receptor in Sprague-Dawley rat brain membrane after 2 hr by scintillation counting",
+          "Confirmatory",
+          "22793499",
+          "",
+          "24448"
+        ]
+      },
+      {
+        "Cell": [
+          "977599",
+          "1",
+          "1",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of sodium fluorescein uptake in OATP1B1-transfected CHO cells at an equimolar substrate-inhibitor concentration of 10 uM",
+          "Other",
+          "23571415",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "977602",
+          "1",
+          "1",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Inhibition of sodium fluorescein uptake in OATP1B3-transfected CHO cells at an equimolar substrate-inhibitor concentration of 10 uM",
+          "Other",
+          "23571415",
+          "",
+          ""
+        ]
+      },
+      {
+        "Cell": [
+          "1097336",
+          "1",
+          "1",
+          "",
+          "123087813",
+          "4919",
+          "Unspecified",
+          "",
+          "",
+          "",
+          "Drug level in Homo sapiens (human) whole blood assessed as retention time by UPLC-TOF-MS analysis",
+          "Other",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}
