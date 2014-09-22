@@ -144,6 +144,26 @@ for (t in 1:length(tmp)) {
   }
 }
 
+# Finally, calculate tanimoto scores based on overlap of gene sets
+# Get unique terms
+uniqueterms = as.character(unique(result$report$NAME.1))
+tanimotos.terms = array(dim=c(length(result$meds),length(result$meds)))
+rownames(tanimotos.terms) = sort(result$meds)
+colnames(tanimotos.terms) = sort(result$meds)
+
+for (t in 1:length(result$meds)){
+  med1 = result$meds[t]
+  sets1 = as.character(result$report$NAME.1[which(result$report$medications ==med1)])
+  for (u in 1:length(result$meds)) {
+    med2 = result$meds[u]
+    sets2 = as.character(result$report$NAME.1[which(result$report$medications ==med2)])
+    tanimotos.terms[med1,med2] = length(intersect(sets1,sets2)) / length(union(sets1,sets2))
+  }
+}
+
+result$tanimotos.terms = tanimotos.terms
+save(result,file="DrugGeneLists74Final.Rda")
+
 # Cluster based on gene sets
 load("drugNESMatrix.Rda")
 disty = dist(df)

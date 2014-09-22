@@ -180,4 +180,121 @@ for (i in 1:ncol(associations.binary)){
 
 # Conclusion from above - most of these genes have no evidence either way :(
 
+# ATTEMPT # 2 --- looking for pathway enrichment ---------------------------------------------------------
+# It could be the case that the differences in RNA expression are due to indirect changes in the pathway, and
+# not necessarily the exact gene.  To test this, I will map the genes enriched in my drugs to proteins, and then 
+# the proteins to pathways.
+
+# IDEA 2:
+# 1) Map drug --> proteins --> pathways: enrichment of pathways (look for common pathways)
+# 2) Map GSEA genes --> pathways 
+# 3) Find some way to assess if they are related (overlap)
+
+library("KEGGREST")
+library(RCurl)
+options(RCurlOptions = list(cainfo = system.file("CurlSSL", "cacert.pem", package = "RCurl")))
+
+setwd("/home/vanessa/Documents/Dropbox/Code/R/gene2drug/data/json/bioassay")
+
+# Load our drug data
+load("/home/vanessa/Documents/Dropbox/Code/R/gene2drug/data/DrugGeneLists74Final.Rda")
+names(result$geneLists) = result$meds
+
+# Get all gene names
+#uniquegenes = c()
+#for (g in 1:length(result$geneLists)){
+#  tmp = result$geneLists[[g]]
+#  tmp = strsplit(tmp," ")[[1]]
+##  uniquegenes = c(uniquegenes,tmp)
+#}
+#uniquegenes = unique(uniquegenes)
+
+# Just get all hsa pathways in one go
+kegg = keggList("hsa")
+
+# LOOKUP by hsa ID
+hsa2genes = list()
+hsa2path = list()
+
+# Lookup by gene
+gene2hsa = list()
+gene2path = list()
+
+# Parse kegg result - create list of genes with hsaid
+for (k in 1:length(kegg)){
+  cat("Processing",k,"of",length(kegg),"\n")
+  hsa = names(kegg[k])
+  genes = strsplit(kegg[k],";")[[1]][1]
+  pathway = gsub("^ ","",strsplit(kegg[k],";")[[1]][2])
+  hsa2genes[[hsa]] = genes
+  hsa2path[[hsa]] = pathway
+  genes = gsub(" ","",strsplit(genes,",")[[1]])
+  for (g in genes){
+    if (g %in% names(gene2hsa)) {
+      holder = gene2hsa[[g]]
+      gene2hsa[[g]] = c(holder,hsa)
+    } else {
+      gene2hsa[[g]] = hsa
+    }
+    if (g %in% names(gene2path)) {
+      holder = gene2path[[g]]
+      gene2path[[g]] = c(holder,pathway)
+      } else {
+      gene2path[[g]] = pathway
+      }
+  }
+}
+
+# Save our kegg objects to file
+path.hsa2hsa = keggLink("pathway", "hsa")
+hsa2path.hsa = keggLink("hsa", "pathway")
+readme = "KEGG database with 30739 entries, downloaded 9/22/2014/n gene2hsa: maps gene names to hsa identifiers \n gene2path: maps gene symbols to pathway descriptions \n hsa2gene: maps hsa pathway identifiers to gene symbols \n hsa2path: maps hsa identifiers to pathways. \n questions: email vsochat@stanford.edu"
+kegg = list(gene2hsa = gene2hsa,gene2path=gene2path,hsa2gene=hsa2genes,hsa2path=hsa2path,readme=readme,pathhsa2hsa=path.hsa2hsa,hsa2pathhsa=hsa2path.hsa)
+save(kegg,file="/home/vanessa/Documents/Dropbox/Code/R/gene2drug/data/kegg.Rda")
+
+# Now for each drug, create list of hsa identifiers
+hsas = list()
+for (g in 1:length(result$geneLists)){
+  med = names(result$geneLists[g])
+  # Here are the genes
+  tmp = result$geneLists[[g]]
+  tmp = strsplit(tmp," ")[[1]]
+  hsa = list()
+  for (t in tmp){
+    hsa[[t]] = kegg$gene2hsa[[t]]
+  }
+  hsas[[med]] = hsa
+}
+
+# Now for each med, get a list of pathways
+pathwaylookup = keggLink("pathway", "hsa")
+pathways = list()
+hsalist = list()
+for (h in 1:length(hsas)){
+  med = names(hsas[h])
+  tmp = hsas[[med]]
+  allhsa = c()
+  for (t in 1:length(tmp)){
+    if (length(tmp[t] == 1)
+      allhsa = c(allhsa,as.character(tmp[t]))
+    
+  }
+  hsalist[[med]] = allhsa
+  
+  tmp = pathwaylookup[[tmp]]
+  pathways[[med]] = tmp
+}
+
+# Save both to our result object
+result$pathways = pathways
+result$hsa = hsas
+save(result,file="DrugGeneLists74Final.Rda")
+
+# Now we have complete pathways for enriched genes for each med
+
+# Now we want to 1) look for enrichment of a pathway
+
+# 2) Get pathways for a drug from lierature - is there overlap?
+# make list 
+# For each drug, genes, look up pathways
 # GET MESH HIERARCHY FOR EACH DRUG
