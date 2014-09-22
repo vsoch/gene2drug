@@ -156,6 +156,7 @@ scores = list()
 posscore = list()
 negscore = list()
 nocalls = list()
+overlap.genes = list()
 for (i in 1:ncol(associations.binary)){
   drug = colnames(associations.binary)[i]
   active = names(which(associations.binary[,i] == 1))
@@ -172,6 +173,7 @@ for (i in 1:ncol(associations.binary)){
   pospoints = length(which(mygenes %in% genes.active))
   negpoints = length(which(mygenes %in% genes.inactive))
   zeropoints = length(which(mygenes %in% genes.nocall))
+  overlap.genes[[drug]] = mygenes[which(mygenes %in% genes.active)]
   scores[[drug]] = pospoints - negpoints
   posscore[[drug]] = pospoints
   negscore[[drug]] = negpoints 
@@ -179,7 +181,15 @@ for (i in 1:ncol(associations.binary)){
 }
 
 # Conclusion from above - most of these genes have no evidence either way :(
+# NOTE: The drugs with active genes found above, eg:
 
+# chrysin: "CALM1"
+# novobiocin: "ALB"
+# sulconazole: "NR1H4"
+# tanespimycin: "HSP90B1"
+
+# are exactly the same for this analysis and the analysis below when
+# I map from genes --> pathways --> more genes first!
 # ATTEMPT # 2 --- looking for pathway enrichment ---------------------------------------------------------
 # It could be the case that the differences in RNA expression are due to indirect changes in the pathway, and
 # not necessarily the exact gene.  To test this, I will map the genes enriched in my drugs to proteins, and then 
@@ -199,15 +209,6 @@ setwd("/home/vanessa/Documents/Dropbox/Code/R/gene2drug/data/json/bioassay")
 # Load our drug data
 load("/home/vanessa/Documents/Dropbox/Code/R/gene2drug/data/DrugGeneLists74Final.Rda")
 names(result$geneLists) = result$meds
-
-# Get all gene names
-#uniquegenes = c()
-#for (g in 1:length(result$geneLists)){
-#  tmp = result$geneLists[[g]]
-#  tmp = strsplit(tmp," ")[[1]]
-##  uniquegenes = c(uniquegenes,tmp)
-#}
-#uniquegenes = unique(uniquegenes)
 
 # Just get all hsa pathways in one go
 kegg = keggList("hsa")
@@ -312,9 +313,37 @@ result$expanded.pathway.genes = expandedgenes
 save(result,file="DrugGeneLists74Final.Rda")
 
 # NOW we should look for overlapping genes with association.
+# Now for each medication, let's make a list of active and inactive genes
+# We should award points for active genes, take off for inactive, do nothing for neither
 
+# Load the associations from file, associations.binary
+load("associated_gidToDrug72.Rda")
+load("giToGeneLookup1550.Rda")
 
-# 2) Get pathways for a drug from lierature - is there overlap?
-# make list 
-# For each drug, genes, look up pathways
-# GET MESH HIERARCHY FOR EACH DRUG
+activeGenes = list()
+for (i in 1:ncol(associations.binary)){
+  drug = colnames(associations.binary)[i]
+  active = names(which(associations.binary[,i] == 1))
+  
+  # Now get gene names for all
+  genes.active = as.character(gidlookup[active])
+  
+  # Now compare to our list
+  mygenes = result$expanded.pathway.genes[[drug]]
+  ag = mygenes[which(mygenes %in% genes.active)]
+  activeGenes[[drug]] = ag
+  cat("Found",length(ag),"active genes for",drug,"\n")
+}
+activeGenes = activeGenes[which(as.character(activeGenes)!="character(0)")]
+result$activeGenes = activeGenes
+save(result,file="DrugGeneLists74Final.Rda")
+
+# The result is equivalent to above:
+
+# chrysin: "CALM1"
+# novobiocin: "ALB"
+# sulconazole: "NR1H4"
+# tanespimycin: "HSP90B1"
+
+# Next I will look up these drug/gene pairs, try to understand the pathway/how interact, and create gene lists for those pathways to possibly test against data.
+# TODO: GET MESH HIERARCHY FOR EACH DRUG
