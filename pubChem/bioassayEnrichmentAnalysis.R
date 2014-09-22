@@ -269,30 +269,50 @@ for (g in 1:length(result$geneLists)){
 # Now for each med, get a list of pathways
 pathwaylookup = keggLink("pathway", "hsa")
 pathways = list()
-hsalist = list()
 for (h in 1:length(hsas)){
   med = names(hsas[h])
   tmp = hsas[[med]]
   allhsa = c()
   for (t in 1:length(tmp)){
-    if (length(tmp[t] == 1)
+    if (length(tmp[[t]]) == 1) {
       allhsa = c(allhsa,as.character(tmp[t]))
-    
+    } else {
+      for (tt in tmp[[t]]){
+      allhsa = c(allhsa,as.character(tmp[[t]][tt]))
+     }
+    }
   }
-  hsalist[[med]] = allhsa
-  
-  tmp = pathwaylookup[[tmp]]
-  pathways[[med]] = tmp
+  allhsa = allhsa[-which(is.na(allhsa))]
+  pathways[[med]] = allhsa
 }
-
+  
 # Save both to our result object
-result$pathways = pathways
+result$pathways.kegg = pathways
 result$hsa = hsas
 save(result,file="DrugGeneLists74Final.Rda")
 
 # Now we have complete pathways for enriched genes for each med
+# Now we need to get ALL the possible genes based on the pathways!
 
-# Now we want to 1) look for enrichment of a pathway
+expandedgenes = list()
+for (e in 1:length(result$pathways.kegg)){
+  med = names(result$pathways.kegg[e])
+  hsa = result$pathways.kegg[[med]]
+  tmp = as.character(kegg$hsa2gene[hsa])
+  tmp2 = c()
+  for (t in tmp){
+    tmp2 = c(tmp2,gsub(" ","",strsplit(t,",")[[1]]))  
+  }
+  tmp = unique(c(tmp2,strsplit(result$geneLists[[med]]," ")[[1]]))
+  expandedgenes[[med]] = tmp
+}
+
+# Save to result object
+result$expanded.pathway.genes = expandedgenes
+save(result,file="DrugGeneLists74Final.Rda")
+
+# NOW we should look for overlapping genes with association.
+
 
 # 2) Get pathways for a drug from lierature - is there overlap?
 # make list 
